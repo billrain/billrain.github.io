@@ -30,7 +30,8 @@ twitter_username:
 github_username:  billrain
 
 # Build settings
-theme: minima
+remote_theme: erlzhang/jekyll-theme-arktos
+#theme: minima
 plugins:
   - jekyll-feed
 

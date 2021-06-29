@@ -6,14 +6,12 @@
   url: /styles
 - title: Pages
   url: /#
-  sublinks:
-    - title: Authors
-      url: /all-authors  
+  sublinks: 
     - title: About
       url: /about
     - title: Contact
-      url: /contact      
+      url: /contact
     - title: 404
       url: /404
 - title: Contact
-  url: /contact      
+  url: /contact

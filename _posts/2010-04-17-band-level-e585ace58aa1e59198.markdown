@@ -1,0 +1,68 @@
+---
+author: admin
+comments: true
+date: 2010-04-17 03:35:33+00:00
+layout: post
+link: http://www.billrain.com/2010/04/band-level-%e5%85%ac%e5%8a%a1%e5%91%98/
+slug: band-level-%e5%85%ac%e5%8a%a1%e5%91%98
+title: Band level 公务员
+wordpress_id: 2077
+categories:
+- 五花八门|FUN
+---
+
+  <table cellpadding="2" cellspacing="0" align="center" border="0" width="556" ><tbody >       <tr >         
+<td width="55" valign="top" >Band
+</td>          
+<td width="264" valign="top" >Title
+</td>          
+<td width="235" valign="top" >职称
+</td>       </tr>        <tr >         
+<td width="57" valign="top" >7
+</td>          
+<td width="269" valign="top" >Associate project manager
+</td>          
+<td width="238" valign="top" >科长
+</td>       </tr>        <tr >         
+<td width="58" valign="top" >8
+</td>          
+<td width="270" valign="top" >Advisory project manager
+</td>          
+<td width="238" valign="top" >处长
+</td>       </tr>        <tr >         
+<td width="59" valign="top" >9
+</td>          
+<td width="270" valign="top" >Senior project manager
+</td>          
+<td width="238" valign="top" >局长
+</td>       </tr>        <tr >         
+<td width="60" valign="top" >10
+</td>          
+<td width="270" valign="top" >Executive manager
+</td>          
+<td width="237" valign="top" >厅长
+</td>       </tr>        <tr >         
+<td width="61" valign="top" >D
+</td>          
+<td width="269" valign="top" >Associate Vice President
+</td>          
+<td width="237" valign="top" >部长
+</td>       </tr>        <tr >         
+<td width="62" valign="top" >C
+</td>          
+<td width="269" valign="top" >Vice President
+</td>          
+<td width="236" valign="top" >中央政治局委员
+</td>       </tr>        <tr >         
+<td width="62" valign="top" >B
+</td>          
+<td width="269" valign="top" >Senior Vice President
+</td>          
+<td width="236" valign="top" >常委
+</td>       </tr>        <tr >         
+<td width="62" valign="top" >A
+</td>          
+<td width="269" valign="top" >Cheif Executive Officer
+</td>          
+<td width="236" valign="top" >主席/总理
+</td>       </tr>     </tbody></table>

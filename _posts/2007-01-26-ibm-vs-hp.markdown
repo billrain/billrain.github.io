@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2007-01-26 12:33:00+00:00
+layout: post
+link: http://www.billrain.com/2007/01/ibm-vs-hp/
+slug: ibm-vs-hp
+title: IBM VS HP
+wordpress_id: 72
+categories:
+- 帐如流水|COMMON
+tags:
+- ibm
+---
+
+周三接到HP的电话面试, 据我投递简历只有3个工作日, 而且是提前一天通知, IBM的简历不知道送过去多长时间了, 今天才给安排了一次跟校园的笔试, 不得不晕, 作为IT界最大的2家公司, 还真有很多不一样的地方, 此刻就不多评论了。HP方面可能要求工作经验，所以把握不大，IBM下周再说吧。

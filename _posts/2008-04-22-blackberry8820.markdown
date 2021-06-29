@@ -1,0 +1,769 @@
+---
+author: admin
+comments: true
+date: 2008-04-22 12:58:15+00:00
+layout: post
+link: http://www.billrain.com/2008/04/blackberry8820/
+slug: blackberry8820
+title: Blackberry 8820
+wordpress_id: 850
+categories:
+- 数码设备|DIGI
+tags:
+- blackberry
+---
+
+![3_1280](http://www.billrain.com/wp-content/uploads/2008/04/3-1280-thumb.jpg)
+
+
+
+
+我的8820入手半个多月了，现在才基本研究明白部分功能，虽然只是部分，但足以感受到了传说中商务智能的强大。随便说说不一样的的地方。8820是黑莓最早的一款支持WIFI的型号，当然我主要也是看中这个功能，以便在卫生间都可以保持ONLINE状态。其实黑莓是支持LOTUS NOTES邮箱和SAMETIME的，当然目前我还没有研究明白怎样在国内实现，但是肯定可行的，这样会给我的工作带来很大的便利。我不能确定BB是不是世界是唯一能跑ST的手机，既然ST都没问题，其他各种IM就不用说了，唯一的问题就是目前的MSN和QQ走WAP流量几乎上不去，需要走CMNET的流量，本地区还没有包月服务，害得我下载一套GOOGLE手机软件第二天手机直接停机了。说到这第三个优点就来了，BB的系统可以顺利支持各种GOOGLE MOBILE软件，有的依然需要走CMNET流量，如果有更多的可以同时支持WAP和WIFI的服务就好了。BB的待机时间比较不错，尤其是在没电的时候仍然可以挺很长时间，甚至会自动关闭网络链接。NOKIA一些很实用的功能这里都有，黑莓的定时自动开关机功能是我用过的NK所没有的。当然目前由于BB的中文服务少的可怜，国内用户根本无法充分发挥这部机器的全部性能，一些功能也支持的不好，比如联系人无法通过拼音首字母查询，以及自带的中文输入法也不是很方便，使用起来还是需要一定时间去适应的。
+
+
+
+
+[![photo_fifteen](http://www.billrain.com/wp-content/uploads/2008/04/photo-fifteen-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/04/photo-fifteen.jpg)
+
+
+
+
+[![photo_four](http://www.billrain.com/wp-content/uploads/2008/04/photo-four-thumb.jpg)<!-- more -->](http://www.billrain.com/wp-content/uploads/2008/04/photo-four.jpg)
+
+
+
+<table style="background: black 0% 50%; width: 375pt; text-align: center; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" border="0" width="500" cellpadding="0" cellspacing="1" class="MsoNormalTable" >
+<tbody >
+<tr >
+
+<td colspan="2" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #99ccff 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+**RIM BlackBerry****（黑莓）****8820****规格表**
+
+
+
+</td>
+</tr>
+<tr style="height: 15.4pt" >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; height: 15.4pt; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+手机制式
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; height: 15.4pt; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+GSM
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+支持频段
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+850/900/1800/1900MHz 支持GPRS/EDGE
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内存容量
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+16MB RAM，64MB ROM
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+设计类型
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+直板
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+产品天线
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内置
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+机身颜色
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+银黑色，银绿，银红等
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+产品尺寸
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+114 (L) x 66 (W) x 14 (T)mm
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+产品重量
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+134g
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+主屏材质
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+TFT
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+主屏颜色
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+65K色
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+主屏分辨率
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+240x320像素
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+音乐播放器
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+BlackBerry Media Center
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+音乐播放特性
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+支持蓝牙立体声
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+音频播放格式
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+MP3、ACC、ACC+、WAV、WMA、RealMedia等
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+视频播放格式
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+3GP、MP4、Real Media（.ram .rm）、Media Video（.wmv）
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+FM收音
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内置
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+文档
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+通过第三方文档阅读及编辑软件支持.
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+和弦铃声
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+支持MIDI、MP3、ACC等格式铃声
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+操作系统
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+BlackBerry OS 4.2.2.xxx ROM以上版本
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+同步软件
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+建议RIM黑莓桌面管理器4.2及以上版本
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+电子邮件
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内置电子邮件客户端，支持Push Mail （需激活服务）
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+浏览器属性
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+全功能HTML/XML浏览器
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+Java扩展
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+Java MIDP 2.0，支持2D/3D游戏
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+蓝牙
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+蓝牙v2.0
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内置软件
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+黑莓Messenger，黑莓地图，黑莓闹钟软件
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+数据线接口
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+USB 1.1/2.0
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+操作方式
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+Qwerty全键盘+Trackball轨迹球
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+特殊操作
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+轨迹球模拟鼠标操作，RollR追踪滚轮
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+多媒体卡扩展
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+micro SD卡
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+内置游戏
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+打砖块
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+中文输入方式
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+黑莓拼音输入，笔画输入，仓颉输入法
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+多媒体短信
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+全功能彩信收发（需激活服务）
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+超长短信
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+连接文字短信，最多可含160 个字符
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+CPU
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+Intel Xscale 312Mhz
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+电池、通话及待机
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+1400毫安，通话5小时，待机528小时
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="128" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: #ffcc00 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 95.8pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+日程表
+
+
+
+</td>
+
+<td width="369" style="border-right: #ece9d8; padding-right: 2.25pt; border-top: #ece9d8; padding-left: 2.25pt; background: white 0% 50%; padding-bottom: 2.25pt; border-left: #ece9d8; width: 277.1pt; padding-top: 2.25pt; border-bottom: #ece9d8; moz-background-clip: -moz-initial; moz-background-origin: -moz-initial; moz-background-inline-policy: -moz-initial" >
+
+
+全功能日程表
+
+
+
+</td>
+</tr>
+</tbody></table>
+

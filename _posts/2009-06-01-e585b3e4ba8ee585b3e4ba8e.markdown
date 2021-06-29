@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2009-06-01 13:31:07+00:00
+layout: post
+link: http://www.billrain.com/2009/06/%e5%85%b3%e4%ba%8e%e5%85%b3%e4%ba%8e/
+slug: '%e5%85%b3%e4%ba%8e%e5%85%b3%e4%ba%8e'
+title: 关于关于
+wordpress_id: 1679
+categories:
+- 帐如流水|COMMON
+---
+
+61儿童节了，11终于做出个关于页，那右上角呢，自己点吧～

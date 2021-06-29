@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2009-04-22 06:31:02+00:00
+layout: post
+link: http://www.billrain.com/2009/04/%e5%8d%9a%e5%ae%a2%e6%95%b4%e6%94%b9%e4%b8%ad/
+slug: '%e5%8d%9a%e5%ae%a2%e6%95%b4%e6%94%b9%e4%b8%ad'
+title: 博客整改中
+wordpress_id: 1571
+categories:
+- 帐如流水|COMMON
+tags:
+- blogger
+---
+
+评论功能暂时不好使了

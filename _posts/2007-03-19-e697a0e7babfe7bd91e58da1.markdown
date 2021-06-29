@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-03-19 12:55:00+00:00
+layout: post
+link: http://www.billrain.com/2007/03/%e6%97%a0%e7%ba%bf%e7%bd%91%e5%8d%a1/
+slug: '%e6%97%a0%e7%ba%bf%e7%bd%91%e5%8d%a1'
+title: 无线网卡
+wordpress_id: 129
+categories:
+- 帐如流水|COMMON
+---
+
+更新了驱动，终于好像不连续掉线了，不错

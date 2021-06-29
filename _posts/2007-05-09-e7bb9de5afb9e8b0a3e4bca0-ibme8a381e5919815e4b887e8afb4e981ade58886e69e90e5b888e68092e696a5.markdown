@@ -1,0 +1,23 @@
+---
+author: billrain
+comments: true
+date: 2007-05-09 11:55:00+00:00
+layout: post
+link: http://www.billrain.com/2007/05/%e7%bb%9d%e5%af%b9%e8%b0%a3%e4%bc%a0-ibm%e8%a3%81%e5%91%9815%e4%b8%87%e8%af%b4%e9%81%ad%e5%88%86%e6%9e%90%e5%b8%88%e6%80%92%e6%96%a5/
+slug: '%e7%bb%9d%e5%af%b9%e8%b0%a3%e4%bc%a0-ibm%e8%a3%81%e5%91%9815%e4%b8%87%e8%af%b4%e9%81%ad%e5%88%86%e6%9e%90%e5%b8%88%e6%80%92%e6%96%a5'
+title: 绝对谣传 IBM裁员15万说遭分析师怒斥
+wordpress_id: 182
+categories:
+- 静如处子|OBSERVE
+tags:
+- ibm
+---
+
+Quote：  
+据英国媒体报道，该消息最初来自美国知名专栏作家罗伯特·科林吉里（Robert Cringely），他日前在美国公共广播公司（PBS）网站专栏上援引IBM内部人士的说法称，IBM年底前将启动一场规模空前的裁员行动，人数最高为 15万人，相当于其员工总数的42%。 
+
+   他认为IBM为了节省成本将把大量工作外包出去。 
+
+   但Annex Research的分析师鲍伯·杜伊德杰维奇(Bob Djurdjevic)说，IBM或许会裁员1000人，但绝不可能裁员15万。他对Network World说，IBM没有这么做的理由，它的业务运行的非常好。除此之外，IBM在美国的全部员工加起来也不过15万人。 
+
+   杜伊德杰维奇最后表示，这种谣传无聊透顶，“无论这是谁说的，他都该考虑一下换换工作了。” 

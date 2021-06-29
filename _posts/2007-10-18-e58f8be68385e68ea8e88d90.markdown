@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2007-10-18 05:43:44+00:00
+layout: post
+link: http://www.billrain.com/2007/10/%e5%8f%8b%e6%83%85%e6%8e%a8%e8%8d%90/
+slug: '%e5%8f%8b%e6%83%85%e6%8e%a8%e8%8d%90'
+title: 友情推荐
+wordpress_id: 303
+categories:
+- 帐如流水|COMMON
+---
+
+我朋友姐姐参加的一个活动，希望大家有空来给[投个票](http://www.excitechina.com.cn/servlet/ContentServer?pagename=DFY/CNEX#blogDetail/-1001800)啊，下面推荐的是我旁边的用EXCEL做的[家庭记账本](http://www.billrain.com/Tools/YY.xls)，欢迎大家试用啊，读这3句话要用锦州口音啊～

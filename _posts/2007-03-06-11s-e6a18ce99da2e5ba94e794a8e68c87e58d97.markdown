@@ -1,0 +1,33 @@
+---
+author: billrain
+comments: true
+date: 2007-03-06 07:55:00+00:00
+layout: post
+link: http://www.billrain.com/2007/03/11s-%e6%a1%8c%e9%9d%a2%e5%ba%94%e7%94%a8%e6%8c%87%e5%8d%97/
+slug: 11s-%e6%a1%8c%e9%9d%a2%e5%ba%94%e7%94%a8%e6%8c%87%e5%8d%97
+title: 11&#8217;s 桌面应用指南
+wordpress_id: 112
+categories:
+- 信息技术|IT
+tags:
+- Google
+---
+
+下面介绍一下11常用的软件们  
+[珊瑚虫QQ](http://www.coralqq.com/)：下载珊瑚虫外挂可以去QQ闹心的广告和QQSHOW广播等等  
+[Windows Live Messenger](http://get.live.com/messenger/overview)：MSN即时通讯  
+[Media Player Classic](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/495.shtml):  视频播放支持插字幕  
+[Winamp](http://dl.pconline.com.cn/html_2/1/119/id=53&pn=0.html)：音频播放  
+[Firefox](http://www.mozilla.org.cn/)：非IE内核浏览器，  
+用FF你可能需要下列插件：IE TAB-切换内核，Adblock Plus-去除广告，FlashGot-下载工具，Gmail Notifier-提醒，还有狗狗日历笔记本等等。  
+[Opera](http://www.opera.com/download/windows/)： 同上  
+[Foxmail](http://fox.foxmail.com.cn/)：远程邮件接受及管理  
+[FlashGet](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/4268.shtml)：下载  
+[FlashFXP](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/848.shtml)：FTP下载管理  
+[Picasa](http://picasa.google.com/intl/zh-CN/)：图片修改管理  
+[超级兔子](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/5227.shtml)：系统优化维护备份  
+[Diskeeper](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/4021.shtml)：磁盘整理  
+[Yahoo Widget](http://widgets.yahoo.com/)：桌面应用  
+[StyleXP](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/6401.shtml)：XP主题更换  
+[NeroBurning](http://down1.tech.sina.com.cn/download/downContent/2004-03-16/1347.shtml)：光盘刻录  
+[Google输入法](http://tools.google.com/pinyin/)：输入法。。。

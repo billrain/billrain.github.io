@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2007-10-11 12:23:00+00:00
+layout: post
+link: http://www.billrain.com/2007/10/%e5%8e%9f%e6%9d%a5msnspace%e6%94%af%e6%8c%81%e9%82%ae%e4%bb%b6%e5%8f%91%e5%b8%83/
+slug: '%e5%8e%9f%e6%9d%a5msnspace%e6%94%af%e6%8c%81%e9%82%ae%e4%bb%b6%e5%8f%91%e5%b8%83'
+title: 原来MSNSPACE支持邮件发布
+wordpress_id: 283
+categories:
+- 帐如流水|COMMON
+tags:
+- blogger
+---
+
+BLOGGER有这个功能今天才发现MSN也有，那么以后每次在这的文章都可以自动转发到MSNSPACE上了。

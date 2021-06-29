@@ -1,0 +1,43 @@
+---
+author: billrain
+comments: true
+date: 2009-09-01 15:26:09+00:00
+layout: post
+link: http://www.billrain.com/2009/09/%e7%aa%81%e7%a0%b4%e5%b0%81%e9%94%81%e8%ae%bf%e9%97%aepicasa/
+slug: '%e7%aa%81%e7%a0%b4%e5%b0%81%e9%94%81%e8%ae%bf%e9%97%aepicasa'
+title: 突破封锁访问PICASA
+wordpress_id: 1830
+categories:
+- 信息技术|IT
+tags:
+- Google
+- HowTo
+---
+
+[![pwa-zh_CN](http://www.billrain.com/wp-content/uploads/2009/09/pwazh_CN_thumb.gif)](http://www.billrain.com/wp-content/uploads/2009/09/pwazh_CN.gif)
+
+ 
+
+[Picasa](http://picasaweb.google.com/billrain)被和谐有好一段时间了也，其实方法随便Google一下就有的是，鉴于频频有人向我询问，11还是解释一下吧：
+
+ 
+
+用记事本打开C:\WINDOWS\system32\drivers\etc\hosts 文件，添加下面内容
+
+ 
+
+203.208.39.104 picadaweb.google.com     
+203.208.39.104 lh1.ggpht.com      
+203.208.39.104 lh2.ggpht.com      
+203.208.39.104 lh3.ggpht.com      
+203.208.39.104 lh4.ggpht.com      
+203.208.39.104 lh5.ggpht.com      
+203.208.39.104 lh6.ggpht.com
+
+ 
+
+如果你不知道什么是记事本，go to hell plz~
+
+ 
+
+另外，WIN7是没有权限直接修改这个文件的，需要到附件里找到记事本右键用管理员身份打开，然后选择这个文件去做上述修改才行。

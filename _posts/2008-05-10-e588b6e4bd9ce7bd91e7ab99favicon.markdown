@@ -1,0 +1,21 @@
+---
+author: billrain
+comments: true
+date: 2008-05-10 18:34:25+00:00
+layout: post
+link: http://www.billrain.com/2008/05/%e5%88%b6%e4%bd%9c%e7%bd%91%e7%ab%99favicon/
+slug: '%e5%88%b6%e4%bd%9c%e7%bd%91%e7%ab%99favicon'
+title: 制作网站FAVICON
+wordpress_id: 898
+categories:
+- 信息技术|IT
+tags:
+- WEB
+---
+
+[NIBBY](http://www.season11.com/blog/)问我如何制作这个玩玩，其实很简单，在[这个](http://www.html-kit.com/favicon/)网站上传一个合适照片，方形比较好，添上可选滚动文字，生成后下载图标到本地后2种格式，PNG和GIF，然后把他们上传到网上某个地方比如GOOGLE PAGE，记住链接，打开ＷＰ的主题编辑器，修改HEADER.PHP文件，在<head>和</head>之间添加类似下面的代码：
+
+<link href='[http://ibmainframe.googlegroups.com/web/preview1_16x16.JPG'](http://ibmainframe.googlegroups.com/web/preview1_16x16.JPG') rel='shortcut icon'/>  
+<link href='[http://bp0.blogger.com/_lAHIYwHGO4A/RfpIdwiJ_KI/AAAAAAAABOU/7GDnb-4SnGI/s1600/animated_favicon1.gif'](http://bp0.blogger.com/_lAHIYwHGO4A/RfpIdwiJ_KI/AAAAAAAABOU/7GDnb-4SnGI/s1600/animated_favicon1.gif') rel='icon' type='image/gif'/>
+
+就可以了～HAVE FUN！

@@ -1,0 +1,27 @@
+---
+author: billrain
+comments: true
+date: 2008-02-28 14:33:56+00:00
+layout: post
+link: http://www.billrain.com/2008/02/ibm-z10-x300/
+slug: ibm-z10-x300
+title: IBM z10 &amp; X300
+wordpress_id: 660
+categories:
+- 五花八门|FUN
+tags:
+- fun
+- mainframe
+---
+
+[![hero_z10_600x160](http://www.billrain.com/wp-content/uploads/2008/02/hero-z10-600x160-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/02/hero-z10-600x160.jpg)
+
+
+
+
+最近IBM发布了最新系列的[大型机](http://www-900.ibm.com/cn/systems/z/news/announcement/20080226_annc.shtml)，是五年来投资了15亿美元开发的，64颗四核处理器，新产品的性能提高了50%并明显的降低了能量消耗，售价1M USD起。另一边，联想应对APPLE MAR AIR发布了新款THINKPAD X300，Core 2 Duo SL7100处理器（1.2GHz）、1GB内存、英特尔GS965芯片组（集成显卡）、64GB SSD硬盘、DVD SuperMulti刻录机、13.3英寸WXGA＋宽屏液晶，1.39KG，RMB2W+。看起来都是不错的东西，不知道什么时候能体验一下。
+
+
+
+
+[![000715051](http://www.billrain.com/wp-content/uploads/2008/02/000715051-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/02/000715051.jpg)

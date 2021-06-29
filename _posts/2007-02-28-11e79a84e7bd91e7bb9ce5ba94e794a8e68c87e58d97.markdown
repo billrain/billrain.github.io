@@ -1,0 +1,76 @@
+---
+author: billrain
+comments: true
+date: 2007-02-28 09:27:00+00:00
+layout: post
+link: http://www.billrain.com/2007/02/11%e7%9a%84%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8%e6%8c%87%e5%8d%97/
+slug: 11%e7%9a%84%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8%e6%8c%87%e5%8d%97
+title: 11的网络应用指南
+wordpress_id: 103
+categories:
+- 信息技术|IT
+tags:
+- blogger
+- Google
+- WEB
+---
+
+WEB2.0 去年最流行的网络词汇，最新出炉的网站都会打着WEB2.0的标志，如果你让我说什么是WEB2.0，我想主要特征一是互联网用户自主提供网络资源，二是强调改善用户体验，比如BLOG以及本BLOG上应用的很多网站内容，有的同学上班了或下班了觉得很无聊，即使他们也会上网，也可以说他们还停留在WEB1.0的阶段，即互联网的浏览者，消费者，而不是创造者，并且他们大多数还没有体会到享受分享资源的乐趣。当然作为我来说，每天泡在网上的时间实在是不能在长了，所以如果也像他们那样早就无聊死了，必须不定期主动发掘网络资源才能活下去，也许有点夸张，但是不得不承认网络的确是在改变人类的生活方式。下面为大家介绍一些我体验过的还算有点意思的网络应用，希望没事给你们打发打发时间。
+
+[Google](http://www.google.com)
+[![](http://bp2.blogger.com/_lAHIYwHGO4A/ReVSxo5Z3FI/AAAAAAAABIs/LUhfKQ5D8-M/s400/Snap1.jpg)](http://bp2.blogger.com/_lAHIYwHGO4A/ReVSxo5Z3FI/AAAAAAAABIs/LUhfKQ5D8-M/s1600-h/Snap1.jpg)看看这张图，其实GG提供的服务远比这些要多，说实话这些我也没全搞明白目前，但从长远来看，以后肯定要用到的。
+1，[Analytics](https://www.google.com/analytics/home/?hl=zh-CN)为你的网站比如BLOG提供访问者的各种信息，统计
+2，[BLOGGER](http://www.blogger.com/)，非常优秀或者说符合我风格的BLOG提供商，好处之一是暂不正式在大陆推出服务，所以服务器在US内容不受大陆审查限制
+3，国外应用的Shopping Search Engine
+4，[GMAIL](http://mail.google.com/mail)，GG通用账户
+5，[ORKUT](http://www.orkut.com/)，交友社区，我也不用
+6，[PAGE CREATOR](http://pages.google.com/)，在线制作个人网页，主要提供100M空间放一些小东西和大家分享（国内经常不能访问）
+7，[PICASA](http://picasaweb.google.com/)，很好的图片管理软件并提供在线相册
+8，[READER](http://www.google.com/reader/)，FEED阅读器，非常强大
+9，[GTALK](http://www.google.com/talk/service/GoogleTalk?hl=zh-CN)，GG IM，即时通讯软件，像QQ，MSN那种，当然简洁得不能再了
+10，[NOTEBOOK](http://www.google.com/notebook/?hl=zh-CN)，不用解释吧（可以集成在[FIREFOX](http://www.mozilla.org.cn/)里）
+11，[IGOOGLE](http://www.google.com/ig?source=gama)，自定义主页
+
+12，[定制的新闻](http://www.google.com/newsalerts)
+13，[日历](http://www.google.com/calendar)，是可以于大家分享的日历，即允许别人看到你的日程
+14，[DOCS](http://docs.google.com/)，在线文档表格处理，发布，挑战MS OFFICES的APP
+当然这些都是免费的，你只需要一个GG账户，目前GG值得你的信赖。
+
+在线相册
+[Flickr](http://www.flickr.com/)也就是我导航栏上的，这是一个在线的图库，你可以在上面找到各种各样的图片，也可以存放自己的，前提需要一个YAHOO的ID，理论上可以无限存，但是普通版只可以显示最新上传的几百M图片，PRO的完全没有限制，好玩的地方是它提供很多HACK，比如制作各种LOGO，花式图片啥的，在线相册到处都有，可是提供各种相关服务的就数这个好了
+其次放照片也可以使用GG的[PICASA](http://picasa.google.com)，但是它不支持TAG，所以只适合当仓库，不能当门脸
+
+在线视频
+[YOUTUBE](http://www.youtube.com/) 最近2年来创造了不少奇迹，你需要一个足够快的国外出口才能流畅地看视频，目前我还没发现，上门大多数也都是英语视频，国内视频可以去[土豆网](http://www.tudou.com/)，偶尔看看也行，好东西并不多。
+
+在线音乐
+[PANDORA](http://www.pandora.com/)，一个自动根据歌手或歌曲命生成风格类似歌曲列表的网站，当然是英语歌，同样需要国际出口。（目前国内不好用）
+[Lasf FM](http://cn.last.fm/)，同样这样的网站，不过支持中文，功能更强大，可以做WIDGETS，可以把代码嵌在BLOG或论坛即时显示你听的内容。
+
+RSS阅读
+什么，你还不知道RSS是什么么？可以去看看[这篇文章](http://www.yeeyan.com/articles/view/huahua/699)，也可以[看这个](http://11wblog.blogspot.com/2007/05/rss.html)，简单的说，就是你很多朋友写BLOG，每次都要去检查有没有新内容是不是很麻烦呢，把他们的FEED订阅到RSS阅读器就方便多了，国内的有[抓虾](http://www.zhuaxia.com/)，国际的有[Google Reader](http://www.google.com/reader)，在抓虾你可以看到每日推荐的乱七八糟的文章，嗯，的确是乱七八糟。11现在都是去抓虾看热文，用G READER管理订阅。生成FEED可以用国内的[FEEDSKY](http://www.feedsky.com/)，或者国际上用的最多的[FEEDBURNER](http://www.feedburner.com/)，不过有时候被封。
+
+[豆瓣 ](http://www.douban.com/)说不好什么分类，比较适合喜欢收集和分享的人，就是把你听过，看过的专辑，书籍，电影收集起来，可以评论，可以交友，可以显摆等等。目前抓虾和豆瓣是国内最好的2.0网站，并列第一，没有之一。
+
+SNS社会化网络
+
+[FACEBOOK](http://www.facebook.com/)已经很火了，不用我说了，在那上你可以加GATES好友（当然我没说他会答应你），他的核心是开发的API，这一点，国内任何抄袭人家门脸和帮助文档的号称中国的FACEBOOK的网站都实现不了，包括[校内](http://www.xiaonei.com)。
+
+附上一些其他的WEB2.0网站：
+
+[del.icio.us](http://del.icio.us/): 社会化书签
+
+[digg](http://digg.com/): 嗯，digg
+
+[meboo](http://wwwm.meebo.com/index-zh-CN.html): 在线IM，即时通讯，可以把多个MSN和GMAIL集成在一起
+
+[myspace](http://www.myspace.cn/): 交友社区，国外很火
+
+[netvibes](http://www.netvibes.com/): 定制主页，GG和MSN都提供类似功能
+
+[techmeme](http://www.techmeme.com/): IT博客
+
+[twitter](http://twitter.com/): 最近很火的网络新应用
+
+先写这点，有空我再更新
+Latest update: 05/11/07

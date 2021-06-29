@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2007-11-09 08:01:01+00:00
+layout: post
+link: http://www.billrain.com/2007/11/%e4%bb%8a%e5%a4%9c%e5%bd%92%e5%8e%bb/
+slug: '%e4%bb%8a%e5%a4%9c%e5%bd%92%e5%8e%bb'
+title: 今夜归去
+wordpress_id: 387
+categories:
+- 帐如流水|COMMON
+---
+
+回家2天，光棍节晚上回来

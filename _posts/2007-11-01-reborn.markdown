@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2007-11-01 02:44:37+00:00
+layout: post
+link: http://www.billrain.com/2007/11/reborn/
+slug: reborn
+title: Reborn
+wordpress_id: 358
+categories:
+- 帐如流水|COMMON
+---
+
+11月是个新的开始，一切都会哦的！

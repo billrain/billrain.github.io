@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-10-12 08:23:00+00:00
+layout: post
+link: http://www.billrain.com/2007/10/html/
+slug: html
+title: HTML?
+wordpress_id: 285
+categories:
+- 帐如流水|COMMON
+---
+
+看到现在这个模板的老朋友们请不要见怪先，的确破了点，因为从FTP后台发布到独立空间不支持自定义模板，所以我的那个页面放不到这里来，目前，当然11在积极的想办法，那个模板是XML格式的，而这里只能放HTML，需要转换，我不会还，有人会可以教教我，嗯，HTML……

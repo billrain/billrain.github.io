@@ -1,0 +1,185 @@
+---
+author: admin
+comments: true
+date: 2010-04-17 10:47:19+00:00
+layout: post
+link: http://www.billrain.com/2010/04/bb9700-%e8%af%95%e7%94%a8%e6%89%8b%e8%ae%b0/
+slug: bb9700-%e8%af%95%e7%94%a8%e6%89%8b%e8%ae%b0
+title: BB9700 试用手记
+wordpress_id: 2103
+categories:
+- 数码设备|DIGI
+tags:
+- blackberry
+- Digi
+---
+
+拿到新机第一件事当然是下载GG apps和SYNC了，然后打电话给客服学会激活了BIS服务并注册添加Gmail账户，push mail（就是不需要登录邮件客户端去手动刷新查看新邮件，邮件会像短信一样自动地即时地发送到手机上）就能用了，在然后就黑莓特定的各种apps，经过一系列尝试和体验，主要感觉是有注册的黑莓服务的确非常强大，体现在整合方面，所有的消息（包括twitter,facebook,短信，push mail，MSN对话）都在一个窗口里面，不管是来了什么消息，在这个画面里面都可以查看并回复，不需要再切换窗口，因为都是push到手机上，也不需要手动去刷新（如果自动接收twitter还是挺烦人的，消息不带停的）。另外就是把SNS的内容全部与联系人整合在一起，包括facebook和linkedin，如果你的联系人登记了email地址的话，会根据地址自动与他们的facebook和linkedin进行关联，再次打开联系人可以直接做facebook的动作，比如poke或在他们wall上留言，也可以查看相关的linkedin个人页。安装了官方的MSN并更新联系人的MSN地址之后，打开联系人同样可以看到他的MSN状态（Gtalk类似地）。所以如果每个人都有GMAIL和MSN的话，沟通起来简直无比简单。很可惜国内虽然可以拿到先进的硬件，却享受不了真正优质的配套服务，用BB或Iphone上QQ校内，太低级了。
+
+ 
+
+黑莓自带的浏览器配合3G速度也超快的，下载更是快的有点卡。可以使用官方的app下载管理器，除了上面提到的之外，11还下了Wordpress, Navita(translator),black track lite,虽然没有苹果应用丰富，作为商用机已经非常强大了。至于缺点么，开机头2天调试莫名死机了若干次，尤其是在与GG同步的时候，但后来已经能非常稳定运行了，另外没发现免费的世界时钟，有些不够体贴。
+
+ 
+
+[![bb-bold-9700](http://www.billrain.com/wp-content/uploads/2010/04/bbbold9700_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/04/bbbold9700.png)
+
+ 
+
+  <table cellpadding="2" cellspacing="0" align="center" border="0" width="500" ><tbody >       <tr >         
+<td width="166" valign="top" >
+</td>          
+<td width="166" valign="top" >9700
+</td>          
+<td width="166" valign="top" >8820
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Height
+</td>          
+<td width="166" valign="top" >109mm
+</td>          
+<td width="166" valign="top" >114mm
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Width
+</td>          
+<td width="166" valign="top" >60mm
+</td>          
+<td width="166" valign="top" >66mm
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Depth
+</td>          
+<td width="166" valign="top" >14.1mm
+</td>          
+<td width="166" valign="top" >14mm
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Weight*
+</td>          
+<td width="166" valign="top" >122g
+</td>          
+<td width="166" valign="top" >134g
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Display
+</td>          
+<td width="166" valign="top" >480x360
+</td>          
+<td width="166" valign="top" >320x240
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Talk time
+</td>          
+<td width="166" valign="top" >504hrs
+</td>          
+<td width="166" valign="top" >528hrs
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Standby time
+</td>          
+<td width="166" valign="top" >6hrs
+</td>          
+<td width="166" valign="top" >5hrs
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >CPU
+</td>          
+<td width="166" valign="top" >Marvell PXA930 624MHz
+</td>          
+<td width="166" valign="top" >Intel Xscale PXA272 312Mhz
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >RAM
+</td>          
+<td width="166" valign="top" >128MB
+</td>          
+<td width="166" valign="top" >16MB
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >ROM
+</td>          
+<td width="166" valign="top" >256MB
+</td>          
+<td width="166" valign="top" >64MB
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Battery
+</td>          
+<td width="166" valign="top" >1500mAh
+</td>          
+<td width="166" valign="top" >1400mAh
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Wifi
+</td>          
+<td width="166" valign="top" >802.11 b/g
+</td>          
+<td width="166" valign="top" >802.11 a/b/g
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >GSM/GPRS 
+</td>          
+<td width="166" valign="top" >![sign](http://na.blackberry.com/eng/assets/images/sign.gif)
+</td>          
+<td width="166" valign="top" >![sign](http://na.blackberry.com/eng/assets/images/sign.gif)
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >3G
+</td>          
+<td width="166" valign="top" >![sign](http://na.blackberry.com/eng/assets/images/sign.gif)
+</td>          
+<td width="166" valign="top" >
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >GPS
+</td>          
+<td width="166" valign="top" >![sign](http://na.blackberry.com/eng/assets/images/sign.gif)
+</td>          
+<td width="166" valign="top" >![sign](http://na.blackberry.com/eng/assets/images/sign.gif)
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Bluetooth
+</td>          
+<td width="166" valign="top" >v2.1
+</td>          
+<td width="166" valign="top" >v2.0
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >USB
+</td>          
+<td width="166" valign="top" >Micro USB
+</td>          
+<td width="166" valign="top" >Mini USB
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Camera
+</td>          
+<td width="166" valign="top" >3.2MP
+</td>          
+<td width="166" valign="top" >
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Handset
+</td>          
+<td width="166" valign="top" >3.5mm
+</td>          
+<td width="166" valign="top" >2.5mm
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >OS 
+</td>          
+<td width="166" valign="top" >5.0
+</td>          
+<td width="166" valign="top" >4.5
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Release date
+</td>          
+<td width="166" valign="top" >November, 2009
+</td>          
+<td width="166" valign="top" >August, 2007
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Purchased date
+</td>          
+<td width="166" valign="top" >April, 2010
+</td>          
+<td width="166" valign="top" >March, 2008
+</td>       </tr>        <tr >         
+<td width="166" valign="top" >Price
+</td>          
+<td width="166" valign="top" >435.45$SG
+</td>          
+<td width="166" valign="top" >2800RMB
+</td>       </tr>     </tbody></table>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* including battery

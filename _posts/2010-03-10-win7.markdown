@@ -1,0 +1,28 @@
+---
+author: billrain
+comments: true
+date: 2010-03-10 07:32:27+00:00
+layout: post
+link: http://www.billrain.com/2010/03/win7/
+slug: win7
+title: Win7
+wordpress_id: 1974
+categories:
+- 信息技术|IT
+tags:
+- IT
+---
+
+[![捕获](http://www.billrain.com/wp-content/uploads/2010/03/thumb.png)](http://www.billrain.com/wp-content/uploads/2010/03/4e6c610913b7.png)
+
+ 
+
+听说31开始WIN7RC要自动关机了，11没有给它机会，直接采购了中文家庭高级版，对比国外的售价，国内还是稍微便宜点。高级版除了支持AERO美化效果之外，最重要的是有64位版本，但比专业版缺少了XP模式，11安装的是Win7和XP双引导开机，而实际上基本就再没有用过XP，所以家庭高级版完全够用了。但很不幸的是，安装完后我的英文版卡巴斯基不能正常使用了，因为英文序列号在中文系统上不能通用，有点悲剧了，不得不重新安装了中文版的卡巴，但还没来得及购买序列号。电脑作为我们必不可少的工具和伙伴，用正版的操作系统和杀毒软件是很必要的，尤其是电脑水平越低的越应该采用以减少麻烦，虽然11这也是第一次掏钱买MS的东西，以前都是OEM带的。
+
+ 
+
+[![3](http://www.billrain.com/wp-content/uploads/2010/03/3_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/03/3.png)
+
+ 
+
+[![2](http://www.billrain.com/wp-content/uploads/2010/03/2_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/03/2.png) 主硬盘应该换SSD啊

@@ -1,0 +1,26 @@
+---
+author: admin
+comments: true
+date: 2010-04-18 15:24:37+00:00
+layout: post
+link: http://www.billrain.com/2010/04/web2-0-resume/
+slug: web2-0-resume
+title: Web2.0 Resume
+wordpress_id: 2108
+categories:
+- 五花八门|FUN
+- 信息技术|IT
+tags:
+- IT
+- WEB
+---
+
+[![2](http://www.billrain.com/wp-content/uploads/2010/04/2_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/04/2.png)
+
+ 
+
+[![5](http://www.billrain.com/wp-content/uploads/2010/04/5_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/04/5.png)
+
+ 
+
+Created via [http://www.wordle.net/](http://www.wordle.net/)

@@ -1,0 +1,24 @@
+---
+author: billrain
+comments: true
+date: 2008-03-30 13:16:37+00:00
+layout: post
+link: http://www.billrain.com/2008/03/wordpress-25/
+slug: wordpress-25
+title: Wordpress 2.5
+wordpress_id: 768
+categories:
+- 信息技术|IT
+tags:
+- IT
+- WEB
+- wordpress
+---
+
+[![halo_wordpress](http://www.billrain.com/wp-content/uploads/2008/03/halo-wordpress-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/03/halo-wordpress.jpg)
+
+博客平台[![logo](http://www.billrain.com/wp-content/uploads/2008/03/logo-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/03/logo.png) [WORDPRESS](http://wordpress.org/)发布了2.5，是我使用以来变化较大的一次，后台已经是2.0的风格了
+
+[![1](http://www.billrain.com/wp-content/uploads/2008/03/1-thumb1.jpg)](http://www.billrain.com/wp-content/uploads/2008/03/12.jpg)
+
+中文版在这里:[WordPress 中文团队](http://www.wpcng.com/)

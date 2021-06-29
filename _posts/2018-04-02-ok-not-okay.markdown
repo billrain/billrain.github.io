@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2018-04-02 15:30:15+00:00
+layout: post
+link: http://www.billrain.com/2018/04/ok-not-okay/
+slug: ok-not-okay
+title: OK [Not] Okay
+wordpress_id: 3556
+categories:
+- 帐如流水|COMMON
+tags:
+- thinking
+---
+
+二十年前听广播的少年因一首You are not alone爱上MJ，拉开了聆听欧美音乐的序幕。同年，Radiohead发行了他们的第二张专辑 【OK Computer】，这张被后世称为寓言式专辑次年拿了格莱美最佳另类专辑受到了主流市场的认可。但显然主流市场不包括我，我大概也是二十世纪末第一次听它，当时根本欣赏不了。过了几年上了大学以后复听，才获为珍宝，一路补完RH所有专辑，按常理接下来的专辑应该更加顺耳，可是当【In Rainows】出来的时候，竟然再一次听不懂了，RH在音乐上的进化，总是领先了时代一大截，直到二十年后我才多少欣赏得了这种编曲上不对称的美感，包括其他艺术形势在内，普罗大众经常停留在对称美的和谐当中，却容易忽略其实在自然的构成当中，如无理数之于有理数一样，无规律或随机因素无时无刻不包含在千千万万的事物之间。心想，随着理解能力的缓慢深化，总有一天可以揣摩出抽象艺术隐藏的涵义。
+
+![](https://res.cloudinary.com/teepublic/image/private/s--_Mj3MUqv--/c_crop,x_10,y_10/c_fit,w_830/c_crop,g_north_west,h_1038,w_1038,x_-104,y_-233/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-215,y_-344/b_rgb:ffffff/c_limit,f_jpg,h_630,q_90,w_630/v1524729914/production/designs/2629671_0.jpg)
+
+2017注定是很多事件的10xN周年纪念，除去HK回归不说，进入职场都已经整整十年，已经看到技术道路的尽头，正如子曾经曰过，君子不器，宏观上的发展靠的总归是人心和形势。
+
+补花于2018

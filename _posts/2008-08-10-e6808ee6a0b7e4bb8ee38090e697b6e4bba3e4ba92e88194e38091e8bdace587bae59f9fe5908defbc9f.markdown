@@ -1,0 +1,30 @@
+---
+author: billrain
+comments: true
+date: 2008-08-10 07:48:32+00:00
+layout: post
+link: http://www.billrain.com/2008/08/%e6%80%8e%e6%a0%b7%e4%bb%8e%e3%80%90%e6%97%b6%e4%bb%a3%e4%ba%92%e8%81%94%e3%80%91%e8%bd%ac%e5%87%ba%e5%9f%9f%e5%90%8d%ef%bc%9f/
+slug: '%e6%80%8e%e6%a0%b7%e4%bb%8e%e3%80%90%e6%97%b6%e4%bb%a3%e4%ba%92%e8%81%94%e3%80%91%e8%bd%ac%e5%87%ba%e5%9f%9f%e5%90%8d%ef%bc%9f'
+title: 怎样从【时代互联】转出域名？
+wordpress_id: 1121
+categories:
+- 信息技术|IT
+tags:
+- godaddy
+- WEB
+---
+
+How to transfer you domain from Now.cn to [Godaddy](http://www.godaddy.com)?
+
+上个月11终于把本站域名从时代互联转了出来，过程虽然比较麻烦，还可以接受，首先你需要在时代互联的网站上下载一份域名转出申请表，打印出来填写信息以及签名，挂号信寄到珠海，一个月之内你会收到一封含有转出授权码的EMAIL，这时你就可以去Godaddy办理域名转入的业务了。首先用信用卡支付6.99USD的transfer费用，包含一年的域名续费，Godaddy会发送给你一封含有Transaction ID和Security Code的确认信，你登录网站选择domain transfer填入这2个号码，然后填写从时代互联得到的授权码，即开启了正式的转出过程，这时你需要做的只是等待，Godaddy会负责具体的转出过程，大概一周之后，如果你之前的操作没有问题，就会收到域名成功转入的确认信了，并询问你是否更改域名解析服务器的地址，这样你的域名就正式转移到Godaddy名下了。
+
+至于为什么放弃国内的域名服务商，主要出于以下原因：
+
+
+<blockquote>1. 用PAPER来处理网上的业务真是难以置信，11最讨厌的一种做法，就这一条就足以说明他们业务能力的不足。
+
+2. Godaddy的.com顶级域名每年9.99USD，而时代互联现在要119/年，在美元持续疲软的情况下，价格几乎快差了一倍了，何况在Godaddy注册域名还免费赠送一个经济型主机（5GB带广告）。
+
+3. 11的主机HOST服务商在Godaddy，把域名转过来以后操作更加方便。
+
+4. Godaddy的客户服务非常到位，每次都能快速准确的帮你解决问题（当然你得会英语）。</blockquote>

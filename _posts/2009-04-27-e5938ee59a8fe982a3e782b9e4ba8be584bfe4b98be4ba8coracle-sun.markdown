@@ -1,0 +1,35 @@
+---
+author: billrain
+comments: true
+date: 2009-04-27 14:51:47+00:00
+layout: post
+link: http://www.billrain.com/2009/04/%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e4%ba%8b%e5%84%bf%e4%b9%8b%e4%ba%8coracle-sun/
+slug: '%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e4%ba%8b%e5%84%bf%e4%b9%8b%e4%ba%8coracle-sun'
+title: '[哎嚏那点事儿之二]Oracle Sun'
+wordpress_id: 1587
+categories:
+- 信息技术|IT
+tags:
+- blogger
+- ibm
+- IT
+- sun
+---
+
+# Blue Red Sun
+
+
+[![1](http://www.billrain.com/wp-content/uploads/2009/04/1-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/04/1.png)
+
+[IBM](http://www.ibm.com)收购[SUN](http://www.sun.com/)失败后，[Oracle](http://www.oracle.com/index.html)趁火打劫仅以9亿美元的溢出价抢走了太阳，直到今天IBM才勉强承认了Oracle的行为，尴尬非常明显，有评论认为这对IBM来说是奇耻大辱，我认为并不过分，IBM丧失了一次绝好的扩大其统治地位的机会，更有评论认为，IT服务业从此将进入IBM，HP和Oracle三国分天下的局面，以甲骨文CEO埃里森火爆的脾气，加上SUN强大的技术实力和品牌地位，甲骨文的确有了叫板IBM的潜力，对于那个手里有虎式坦克和战斗机比我还败家的狂人来说，也许还并不知道如何消化SUN的技术人才和市场，先买过来再说，作为世界前三的软件公司，300亿美元的年销售额距离它的超越目标还有一个数量级的距离，直到现在我依然认为无论对于JAVA还是OpenSource，更不要说MySQL，最起码从技术上说IBM都能容易消化，并更容易产生价值，至于到了别人手里会怎么样，让我们拭目以待吧，希望若干年后标题的SUN不要成为动词。
+
+
+## 部落格改版啦
+
+
+[![2](http://www.billrain.com/wp-content/uploads/2009/04/2-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/04/2.png) 傻子都能看出来，11的博客改版了，更新了一下主题模版以及后台插件，变化还是蛮大的吼，header背景我还是很喜欢的，导航栏的CSS还有待改善，其实对于web我的技术非常有限，XML，PHP，MySQL自己都写不出来，但强大的地方就是不会写咱会改，咱中国人就是模仿能力超强，连WP主题都能被我改出山寨来，当然连mainframe的操作系统我都能克隆定制，改个网站还不是小菜一碟么，嗯低调低调，千万不要哪天拉我去做WEB了~以后从batch到online全部的架构应该都能做出解决方案了吧，那岂不是还得学习WebShpere？真是太充实了。最后汇报一下我的Master11用了一个月的感受吧，基本上从安装以来能跑出60%性能的程序很少，内存也只用到1个G，关机速度飞一样，比休眠还快，据说下个月发布WIN7RC，得去搞个体验一下啊。
+
+另外，文章可以打分了，欢迎试水~
+
+
+[poll id="12"]

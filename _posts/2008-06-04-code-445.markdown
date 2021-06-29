@@ -1,0 +1,38 @@
+---
+author: billrain
+comments: true
+date: 2008-06-04 13:30:05+00:00
+layout: post
+link: http://www.billrain.com/2008/06/code-445/
+slug: code-445
+title: CODE 445
+wordpress_id: 942
+categories:
+- 帐如流水|COMMON
+tags:
+- work
+---
+
+今有程序员五人，需时日几何？
+
+一年。
+
+吾急需之！若有十人，几何？
+
+两年。
+
+百人若何？
+
+万世。
+
+——《人月神话》
+
+吾有一ID，作约几何？
+
+三日。
+
+如四百四十五ID，若何？
+
+三日。
+
+——《日月神话》

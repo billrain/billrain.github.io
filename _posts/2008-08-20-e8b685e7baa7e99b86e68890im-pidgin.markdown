@@ -1,0 +1,21 @@
+---
+author: billrain
+comments: true
+date: 2008-08-20 14:08:31+00:00
+layout: post
+link: http://www.billrain.com/2008/08/%e8%b6%85%e7%ba%a7%e9%9b%86%e6%88%90im-pidgin/
+slug: '%e8%b6%85%e7%ba%a7%e9%9b%86%e6%88%90im-pidgin'
+title: 超级集成IM-PIDGIN
+wordpress_id: 1129
+categories:
+- 信息技术|IT
+tags:
+- IM
+- IT
+- OFFICE
+---
+
+![Pidgin](http://pidgin.im/shared/img/logo.text-big.gif)
+
+
+其实我对IM没有什么需求，工作了以后只用MSN，QQ都给人了，因为实在受不了流氓软件了，今天一个偶然试了下开源的[Pidgin](http://pidgin.im/)，强大啊，竟然支持SAMETIME，既然连这个都支持，那么MSN，GTALK，AIM，ICQ，QQ什么的当然都不在话下了，有些人一定会爱上它的，因为在单位装QQ总是有点得儿啊。装完在日文系统有点不兼容，把注册表里HKEY_CURRENT_USER\Software\pidgin的Installer Language的键值改成2052，然后下载这个文件[libqq.dll](http://www.billrain.com/Tools/libqq.dll ) -- 到C:\Program Files\Pidgin\plugins复制源文件，再试试吧，不好使别找我啊哈～另外怎么配置ST呢，先卖个关子好啦哈哈！

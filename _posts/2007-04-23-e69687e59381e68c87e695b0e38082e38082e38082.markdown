@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-04-23 14:47:00+00:00
+layout: post
+link: http://www.billrain.com/2007/04/%e6%96%87%e5%93%81%e6%8c%87%e6%95%b0%e3%80%82%e3%80%82%e3%80%82/
+slug: '%e6%96%87%e5%93%81%e6%8c%87%e6%95%b0%e3%80%82%e3%80%82%e3%80%82'
+title: 文品指数。。。
+wordpress_id: 163
+categories:
+- 帐如流水|COMMON
+---
+
+无意中看到搜狗的[文品指数](http://www.sogou.com/labs/wenpin/)，就是输入一段你的作品，分析出你的写作风格和类似的作家，呵呵，挺乐的，测了几个人的，有的像林语堂。。。有的像芙蓉，还挺多。。。你们猜11跟谁的最像？可是100%的相似度啊。。。

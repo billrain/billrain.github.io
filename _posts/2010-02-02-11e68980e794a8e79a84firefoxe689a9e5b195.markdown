@@ -1,0 +1,68 @@
+---
+author: billrain
+comments: true
+date: 2010-02-02 12:02:47+00:00
+layout: post
+link: http://www.billrain.com/2010/02/11%e6%89%80%e7%94%a8%e7%9a%84firefox%e6%89%a9%e5%b1%95/
+slug: 11%e6%89%80%e7%94%a8%e7%9a%84firefox%e6%89%a9%e5%b1%95
+title: 11所用的Firefox扩展
+wordpress_id: 1944
+categories:
+- 信息技术|IT
+tags:
+- WEB
+---
+
+Adblock Plus
+
+ 
+
+告别广告，大多数
+
+ 
+
+DownThemAll!
+
+ 
+
+什么，公司不让P2P？有这个不需要P2P
+
+ 
+
+FoxyProxy 
+
+ 
+
+翻墙必备
+
+ 
+
+Gmail Notifier
+
+ 
+
+Gmail还不是你的默认邮箱么？
+
+ 
+
+Greasemonkey
+
+ 
+
+脚本管理
+
+ 
+
+IE Tab
+
+ 
+
+网银还是要上的
+
+ 
+
+Xmarks
+
+ 
+
+没有收藏夹，日子还能过？

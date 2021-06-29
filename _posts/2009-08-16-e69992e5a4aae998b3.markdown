@@ -1,0 +1,20 @@
+---
+author: billrain
+comments: true
+date: 2009-08-16 09:49:16+00:00
+layout: post
+link: http://www.billrain.com/2009/08/%e6%99%92%e5%a4%aa%e9%98%b3/
+slug: '%e6%99%92%e5%a4%aa%e9%98%b3'
+title: 晒太阳
+wordpress_id: 1785
+categories:
+- 数码设备|DIGI
+tags:
+- Digi
+---
+
+[![SN201513](http://www.billrain.com/wp-content/uploads/2009/08/SN201513_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/08/SN201513.jpg)
+
+ 
+
+欢迎小白加入11的数码大本营，这下11的OS终于凑全了，从LINUX到windows XP & 7，加上MAC的leopard，如果再加上MF上的z/OS z/VM UNIX等大大小小各种系统，就数不过来了，堪称商用民用OS大全了，基本PSP那种东西11是不稀罕的，未来目标是22和30的显示器各一台，上网本的话谁有也可以送我一个。

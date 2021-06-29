@@ -1,0 +1,28 @@
+---
+author: admin
+comments: true
+date: 2010-06-13 14:08:22+00:00
+layout: post
+link: http://www.billrain.com/2010/06/ot%e8%bf%9b%e8%a1%8c%e6%97%b6/
+slug: ot%e8%bf%9b%e8%a1%8c%e6%97%b6
+title: OT进行时
+wordpress_id: 2218
+categories:
+- 动如脱兔|ACTIVITY
+tags:
+- work
+---
+
+[![SL8500-th](http://www.billrain.com/wp-content/uploads/2010/06/SL8500th_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2010/06/SL8500th.jpg) [![stksl8500a](http://www.billrain.com/wp-content/uploads/2010/06/stksl8500a_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2010/06/stksl8500a.jpg)
+
+ 
+
+貌似国内的同学们今天也上班，不过明天开始连放3天，11今天也上了一天班，准确地说是10小时，连午饭都是在办公室里吃的。要问我大周末的加班干什么，就是伺候下面这个大铁盒子了，像不像冷藏柜呢，也许是时光机，或者是擎天柱？你们猜猜到底这是干什么用的呢？嗯 小马同学一定知道，这是一种磁带机，自动的，里面带机器手的，虚拟磁带库，[SL8500](http://www.oracle.com/us/products/servers-storage/storage/tape-storage/029139.htm)，原是SUN的产品，现在隶属于oracle了（本来应该变成IBM的）。貌似可以容纳1,448 个T9840D，每个75GB的话一共是108.6 TB，放电影的话可以放不少了哈，但读写速度肯定比磁盘差很多了。这个东西组装我是肯定不会了，本来以为让我来是倒腾磁带的，结果上千个磁带他们一会就搞定了，体力活还是有人干地，我们主要是负责软件方面的安装升级和调试了，幸运地白天没出大问题，顺利安装成功了，否则ROLLBACK回去我就直接看德国比赛了。大家再猜猜这个东东多少米呢？说实话我现在也不知道呢～
+
+ 
+
+ 
+
+ 
+
+[![SL8500-frontview.large](http://www.billrain.com/wp-content/uploads/2010/06/SL8500frontview.large_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2010/06/SL8500frontview.large_.jpg)

@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-02-09 04:01:00+00:00
+layout: post
+link: http://www.billrain.com/2007/02/i-am-back/
+slug: i-am-back
+title: i am back
+wordpress_id: 83
+categories:
+- 帐如流水|COMMON
+---
+
+刚装了据说是10M的宽带，不是单元10M，而是个人10M，下载的确800－1200K，有点快哈哈

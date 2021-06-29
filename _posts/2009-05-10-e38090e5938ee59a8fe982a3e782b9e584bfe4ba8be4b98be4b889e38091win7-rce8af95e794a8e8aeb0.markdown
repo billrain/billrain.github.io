@@ -1,0 +1,64 @@
+---
+author: billrain
+comments: true
+date: 2009-05-10 14:06:06+00:00
+layout: post
+link: http://www.billrain.com/2009/05/%e3%80%90%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e5%84%bf%e4%ba%8b%e4%b9%8b%e4%b8%89%e3%80%91win7-rc%e8%af%95%e7%94%a8%e8%ae%b0/
+slug: '%e3%80%90%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e5%84%bf%e4%ba%8b%e4%b9%8b%e4%b8%89%e3%80%91win7-rc%e8%af%95%e7%94%a8%e8%ae%b0'
+title: 【哎嚏那点儿事之三】Win7 RC试用记
+wordpress_id: 1623
+categories:
+- 信息技术|IT
+tags:
+- IT
+---
+
+[![Capture1](http://www.billrain.com/wp-content/uploads/2009/05/capture1-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/capture1.png) 5号从MS官网上下载了64位[Windows7](http://www.microsoft.com/windows/windows-7/download.aspx)最新的ReleaseCandidate版本（Build7100），与XP组成的双系统，硬盘安装方法如下：将下载的ISO文件解压缩到某非XP和非WIN7盘根目录下，下载nt6 hdd installer这个软件放到同一根目录下后运行安装，重启计算机后在系统选择界面就多出了一个nt6 hdd installer的选项，进去之后就可以进行WIN7的安装了，官网下载的是英语终极版的，中文的觉得不是很可靠，安装时选择语言填写用户名后再选择安装到哪个硬盘卷，可以在安装时格式化，与XP选择不同的就好了，需要最多20GB左右的样子，之后进入各自系统都会把自己的安装盘作为C盘，硬盘安装只要15分钟多的时间，的确是所有Windows系列最快的，安装后在开机时就有选择进入新旧哪个系统，2个系统运行基本相安无事。
+
+ 
+
+[![4](http://www.billrain.com/wp-content/uploads/2009/05/4-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/4.png)
+
+ 
+
+Win7使用起来第一感觉自然是华丽的界面了，因为我没有装过VISTA，操作起来与XP的差别还是蛮大的，驱动的支持很好，基本都能识别，除了我的TP无线网卡，死活不好使，不得不淘出CD安装一下，TP的驱动更新比较慢，还不能完全适用新系统，只安装了驱动本身而没有安装成无线适配程序，用WIN7自带的无线登录倒是非常方便。在下载时候会给你一个WIn7的序列号，配置好网络就可以去激活了，使用时间到明年中旬，倒是基本可以买一个正版的用了。
+
+ 
+
+[![5](http://www.billrain.com/wp-content/uploads/2009/05/5-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/5.png)[![Capture2](http://www.billrain.com/wp-content/uploads/2009/05/capture2-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/capture2.png)
+
+ 
+
+64位的系统最直白的解释就是能支持3.2G以上的内存了，最高好像到192吧，用系统测试评分只打了个5.9，比较意外的是我组的RAID硬盘竟然成了系统的瓶颈，真不知道是我没组好啊还是要求太高，不行以后还真得换固态硬盘组RAID。当然目前来说运行是非常流畅的，包括AERO效果（我不会截那个3D切换的图），配合我键鼠套装上都有的程序切换键（相当于WIN+TAB）是非常方便的，可以说WAVE套装就是为VISTA以上的系统设计的。之前XP系统的软件有的可以勉强使用，为了开启全部功能我还是选择重新下载安装了，提供64位版本的软件还是不多，谷歌浏览器更是完全不能用，在我这台机器上与FF启动速度的差别也不是很明显，+IE也够用了，在程序安装时，如果不是64位的会自动安装到ProgramFiles(X86)的文件夹里面以作区分，使用上还没出现什么问题，游戏就不一样了，之前安装的除了WOW之外几乎都有问题，有的是DIRX文件缺失有的是没写注册表的，整不好都得重装了，那可是一项非常浩大的工程啊。好了不多废话了，看图说话吧~
+
+ 
+
+[![7](http://www.billrain.com/wp-content/uploads/2009/05/7-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/7.png)
+
+ 
+
+Lib概念的引入，分类管理资源
+
+ 
+
+[![6](http://www.billrain.com/wp-content/uploads/2009/05/6-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/6.png)
+
+ 
+
+好多好多的控制面板
+
+ 
+
+[![8](http://www.billrain.com/wp-content/uploads/2009/05/8-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/8.png)
+
+ 
+
+开始界面
+
+ 
+
+[![3](http://www.billrain.com/wp-content/uploads/2009/05/3-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/05/3.png)
+
+ 
+
+桌面自动切换的有好几个主题

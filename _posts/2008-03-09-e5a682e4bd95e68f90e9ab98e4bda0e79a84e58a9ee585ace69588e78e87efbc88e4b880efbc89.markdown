@@ -1,0 +1,62 @@
+---
+author: billrain
+comments: true
+date: 2008-03-09 06:34:22+00:00
+layout: post
+link: http://www.billrain.com/2008/03/%e5%a6%82%e4%bd%95%e6%8f%90%e9%ab%98%e4%bd%a0%e7%9a%84%e5%8a%9e%e5%85%ac%e6%95%88%e7%8e%87%ef%bc%88%e4%b8%80%ef%bc%89/
+slug: '%e5%a6%82%e4%bd%95%e6%8f%90%e9%ab%98%e4%bd%a0%e7%9a%84%e5%8a%9e%e5%85%ac%e6%95%88%e7%8e%87%ef%bc%88%e4%b8%80%ef%bc%89'
+title: 如何提高你的办公效率（一）
+wordpress_id: 706
+categories:
+- 信息技术|IT
+- 科普教育|EDU
+tags:
+- Google
+- IT
+- OFFICE
+- WEB
+---
+
+如果你像我一样在办公室有一台属于自己的电脑，有开发的互联网环境，那么该怎样运用它们来提高你的办公效率呢？
+
+
+
+	
+  1. 使用[FIREFOX](http://www.mozillaonline.com/)浏览器，而不是IE
+
+	
+  2. 使用[GOOGLE](http://www.google.com/)的各种服务，而不是百度
+
+	
+  3. 使用安装GOOGLE插件的FIREFOX浏览器
+
+
+对于11来说IE的存在只体现在网上交易的时候，因为所有网上银行和支付宝都不支持非IE内核，其他用IE内核做出来的网站是根本没有浏览的必要的，使用了FF之后你会发现互联网其实没有那么多广告，也不是那么不安全，多年经验告诉我，FF浏览器+一套正版杀毒软件+正版XP中毒中木马的几率几乎为零，作为每天与PC打交道的工作者，重做一次系统的代价要比搬一次家还要严重。
+
+现代处于垄断地位的IT巨头微软和INTEL的产品我们其实都可以找到替代品，但是互联网领军者GOOGLE的整合产品目前我还很难找到完整的BACKUP，当然你如果只是使用它的中文搜索的话，百度还是起作用的，但是如果你50%的搜索关键字都不是中文的话，使用百度会让你崩溃的，从信息的完整性准确性考虑，默认搜索引擎为GOOGLE是一种非常好的习惯。除了搜索之外，GOOGLE和百度都有一系列的产品线，相互也有交叉的地方，百度的产品多为中国网民大众化量身制作，基本上与办公搭不上边，就好比你不能开着QQ去上班一样，GOOGLE的产品线里有几款应用可以作为你的贴身助手。
+
+首先注册GOOGLE的ID，即[GMAIL](https://mail.google.com), 作为你的主力WEB邮箱，加上MSN作为主要IM，一个单位内部邮箱，一个邮件客户端NOTES，FOXMAIL或者OUTLOOK，以及一些国内邮局，就构成了你网上邮件系统的全部。GMAIL在技术上是最先进的，也是最人性化的，速度要比MS LIVE快，是对外沟通的最好的选择，也是你继续使用GOOGLE其他服务的前提，你可以用FOXMAIL来收取各种国内邮箱的信件，因为像163等等这些基本就是用来收广告和注册论坛的，如果你把他放到简历上我也没有意见，你看这个就没有什么必要了，估计你也找不到一个自由上网的工作平台。
+
+开启[GOOGLE CALENDAR](http://www.google.com/calendar)日历服务，这就是把你传统的桌面日程表放到网上来，而且可以自动按日月年重复，自动提醒，一些朋友的生日，信用卡的还款日期都可以登记上，每天的日程还会以邮件格式发送到你的GMAIL里，时间安排总是工作的重要组成部分。
+
+开启[GOOGLE NOTES](http://www.google.com/notebook)记事本，这个更加好理解，简单实用是我们最好的选择，一些常用的信息，电话，IP之类的随手就可以记录下来，还可以打TAG分类，而且时刻保持互联同步不怕丢失。
+
+下面介绍相关的FIREFOX插件
+
+
+#### [Gmail Notifier](https://addons.mozilla.org/zh-CN/firefox/addon/173)
+
+
+自动登录后在FF窗体即时显示未读邮件数目，点击直接进入GMAIL页面
+
+
+#### [Google Calendar Notifier](https://addons.mozilla.org/zh-CN/firefox/addon/2528)
+
+
+安装后把你的CALENDAR信息输入到这个插件里，你可以设置每个日程的提前提醒时间，当你打开FF的时候会自动跳出窗口提示。
+
+
+#### [Google Notebook](http://www.google.com/notebook/download/)
+
+
+附着在浏览器底部的记事本使用和查看都非常方便，最好用的是你在网页上选定一些内容点右键就有直接保存的记事本的选项，而且自动加链接。

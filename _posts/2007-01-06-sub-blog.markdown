@@ -1,0 +1,22 @@
+---
+author: billrain
+comments: true
+date: 2007-01-06 11:28:00+00:00
+layout: post
+link: http://www.billrain.com/2007/01/sub-blog/
+slug: sub-blog
+title: sub blog
+wordpress_id: 41
+categories:
+- 帐如流水|COMMON
+tags:
+- ibm
+- mainframe
+---
+
+today i make up a sub blog which specially introduces mainframe  
+that is [http://ibmainframe.blogspot.com/](http://ibmainframe.blogspot.com/)  
+you can open it in this blog - the right side column  
+i am trying to find a better way to connect the two sites later  
+and i am not blogging mainframe things in this one  
+have fun

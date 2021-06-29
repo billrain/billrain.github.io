@@ -1,0 +1,220 @@
+---
+author: admin
+comments: true
+date: 2010-05-21 15:53:14+00:00
+layout: post
+link: http://www.billrain.com/2010/05/%e6%80%8e%e6%a0%b7%e7%ae%a1%e7%90%86%e4%bd%a0%e7%9a%84%e5%af%86%e7%a0%81/
+slug: '%e6%80%8e%e6%a0%b7%e7%ae%a1%e7%90%86%e4%bd%a0%e7%9a%84%e5%af%86%e7%a0%81'
+title: 怎样管理你的密码
+wordpress_id: 2194
+categories:
+- 科普教育|EDU
+tags:
+- HowTo
+---
+
+随着社会的现代化和信息化，越来越多要求我们注册各种服务，在工作中也会有很多安全机制，都在要求我们登录琳琅满目的ID与密码，要想统计一下数目，光想还真想不过来，替大家算一算吧～
+
+ 
+
+  <table cellpadding="2" cellspacing="0" align="center" border="0" width="401" ><tbody >       <tr >         
+<td width="132" valign="top" >总类
+</td>          
+<td width="140" valign="top" >细分
+</td>          
+<td width="127" valign="top" >密码位数
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >银行卡
+</td>          
+<td width="140" valign="top" >ATM查询
+</td>          
+<td width="127" valign="top" >6位数字
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >ATM取款
+</td>          
+<td width="127" valign="top" >6位数字
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >电话查询
+</td>          
+<td width="127" valign="top" >6位数字
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >网银登录
+</td>          
+<td width="127" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >网上支付
+</td>          
+<td width="127" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >Paypal/淘宝/支付宝
+</td>          
+<td width="140" valign="top" >登录
+</td>          
+<td width="127" valign="top" >我不用
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >交易
+</td>          
+<td width="127" valign="top" >我不用
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >电子邮箱
+</td>          
+<td width="140" valign="top" >主力邮箱
+</td>          
+<td width="127" valign="top" >6位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="140" valign="top" >广告邮箱若干
+</td>          
+<td width="127" valign="top" >6位以上数字或字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >互联网
+</td>          
+<td width="154" valign="top" >登录
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >Firefox主密码
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >Firefox书签同步
+</td>          
+<td width="160" valign="top" >6位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >聊天工具
+</td>          
+<td width="154" valign="top" >MSN
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >QQ
+</td>          
+<td width="160" valign="top" >我不用
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >办公电脑
+</td>          
+<td width="154" valign="top" >开机
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >笔记本硬盘
+</td>          
+<td width="160" valign="top" >6位数字
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >VPN
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >LotusNotes
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >Intranet ID
+</td>          
+<td width="160" valign="top" >8位数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >Mainframe
+</td>          
+<td width="154" valign="top" >TSO ID common
+</td>          
+<td width="160" valign="top" >8位数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >TSO ID special
+</td>          
+<td width="160" valign="top" >8位数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >VM ID
+</td>          
+<td width="160" valign="top" >8位数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >HMC ID
+</td>          
+<td width="160" valign="top" >8位数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >网游
+</td>          
+<td width="154" valign="top" >WOW
+</td>          
+<td width="160" valign="top" >8位以上数字+字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >办公室
+</td>          
+<td width="154" valign="top" >门禁
+</td>          
+<td width="160" valign="top" >6位数字
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >移动设备
+</td>          
+<td width="154" valign="top" >手机
+</td>          
+<td width="160" valign="top" >6位以上数字或字母
+</td>       </tr>        <tr >         
+<td width="132" valign="top" >
+</td>          
+<td width="154" valign="top" >移动硬盘
+</td>          
+<td width="160" valign="top" >6位以上数字或字母
+</td>       </tr>     </tbody></table>
+
+ 
+
+种类的确比较繁多，如果你有很多张银行卡或在网上注册有很多服务，那密码就是几何级增长了。虽然现在银行和在线交易平台也都设置了一些身份验证措施，忘了他们还是比较容易重新获取的；而有些密码比如工作用的，就需要申请重置或麻烦老板批准才可以，可能要耽误几个小时甚至一天的时间；而如果是硬盘密码丢失，你就可以跟它说拜拜了，一般的IT是解不开它的——所以IBM员工的笔记本是丢了也不怕泄密的。像国内电视剧演的那样，国家保密局的笔记本电脑还能被人在酒店内访问，简直就是开玩笑一样——真不晓得这帮连LotusNotes都没有的人，天天是怎么跨部门办公的啊～
+
+ 
+
+自从我每天早晨跨进单位大门起，首先要越过2道密码门，打开电脑输入开机密码，打开VPN，打开NOTES，然后不断的登录TSO，别的密码都可以输错，TSO密码3次就挂掉了。做我们这行的都有几个甚至十几个系统，每个系统上2种TSO ID，如果按照IBM最严格的标准，NOTES和TSO的密码世代都是4代，即每次更换的新密码不能与前三次使用的重复，让你编4组8位数字加字母的密码，总共=系统数X2X4，光这个就足以让脑子不好的人崩溃了。所以很多人偷懒的做法都是按照键盘组合从1到X，也是迫于无奈。
+
+ 
+
+于是怎样管理好你的这些密码，就成为了现代人面临的很实际的一个问题，下面我分享一下我的一些实践和看法。
+
+ 
+
+最简单的方法可以用媒介记录下来，笔记本，手机，NOTEPAD，甚至专业的电脑密码记录软件——每种HARDCOPY记录方法都有其局限性，纸质媒体不方便保存和携带，电子媒体本身就需要加密，如果你忘了自己密码记录软件的主密码，那就比较悲剧了。
+
+ 
+
+单纯靠记忆的话，就是根据不同密码定义的规则，设定自己特有的密码规律或公式甚至算法，比如用你的生日，纪念日，身份证号，手机号，电话号，员工卡号，门牌号等等组合，或者更直接的用123456，666888这样最有规律的组合，大叔大妈们是可以这么做了，我们专业人士偶尔也这么做……在这基础上稍微高级一点的做法就是，用别人的生日，电话号等等，这样即使你的个人信息完全暴露，也还有另一层机制在保护，当你自己忘了的时候，记住是谁问他一下就知道了，还带有找回密码的功能～再比较嘎的做法，取圆周率的第10到15位……3.1415926535979……
+
+ 
+
+对于字母和数字的组合，最简单的就是名字汉语拼音+生日的组合了，小资一点的用英文名+生日了，殊不知英文名在暴力破解的字典里都能找到，汉语拼音可未必能找到。容易记忆的密码多是有意义的，而有意义的往往又是有规律的，有规律的就是能破解的……那么有没有一种既有意义又没规律的呢？密码信上经常这样推荐我们，如果你会英语的话，找一句自己能够记住的英文句子，比如They all call me 11，你发现这个句子很经典啊，有大小写字母也有数字，那么密码就出来了——Thalcame11，怎么选取就是你个人喜好了。不会英语也没问题，汉语句子更没规律，Xiao dao shi ge 250——Xdsge250，组合多多。这样的密码是由你的密句和你的选择组成的，就算你把这句话贴在显示器上，也未必有人能理解它的作用，当然越无厘头越好了～
+
+ 
+
+至于互联网上的所有密码，用Firefox的自动记忆功能就可以了，安装XMARKs插件后，各网站的登录信息都是自动同步到服务器上的，所以即使更换了电脑，下载FF安装插件同步一下书签，就都能直接使用了。如果实在想在公共电脑上同步书签，可以设置一个FF的主密码，登录某个网站的时候，只要输入FF主密码即可，也不用记忆所有的网站密码。
+
+ 
+
+如果你也有一些比较好的管理方法，欢迎与大家分享。

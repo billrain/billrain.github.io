@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2007-06-12 12:18:00+00:00
+layout: post
+link: http://www.billrain.com/2007/06/apple%e8%8b%a5%e5%b9%b2/
+slug: apple%e8%8b%a5%e5%b9%b2
+title: apple若干
+wordpress_id: 216
+categories:
+- 帐如流水|COMMON
+tags:
+- blogger
+---
+
+[![](http://bp3.blogger.com/_lAHIYwHGO4A/Rm7Mp1mcYBI/AAAAAAAABf8/UFa8zmjcs7E/s400/pictures_03m_20070410.jpg)](http://bp3.blogger.com/_lAHIYwHGO4A/Rm7Mp1mcYBI/AAAAAAAABf8/UFa8zmjcs7E/s1600-h/pictures_03m_20070410.jpg)那天看了一下[iPhone](http://www.apple.com/iphone/)的介绍，发现挺好玩的，月底上市，4GB和8GB的499&599USD，不过好像不支持MMS，好像网络发达的话也用不上MMS，最近OSX正在发布新版LEOPARD，同时发布了可以在XP运行的浏览器Safari，但是不支持中文。。。[MAC OS X](http://www.apple.com/macosx/leopard/)做的真不错，看起来，虽然没用过，看起来就比VISTA要有食欲，而且支持XP，以后得弄个iMac或MacBook玩玩

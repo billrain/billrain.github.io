@@ -1,0 +1,63 @@
+---
+author: billrain
+comments: true
+date: 2009-06-05 15:55:19+00:00
+layout: post
+link: http://www.billrain.com/2009/06/%e3%80%90%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e4%ba%8b%e5%84%bf%e4%b9%8b%e5%9b%9b%e3%80%91evernote-4-blackberry/
+slug: '%e3%80%90%e5%93%8e%e5%9a%8f%e9%82%a3%e7%82%b9%e4%ba%8b%e5%84%bf%e4%b9%8b%e5%9b%9b%e3%80%91evernote-4-blackberry'
+title: 【哎嚏那点事儿之四】Evernote 4 Blackberry
+wordpress_id: 1688
+categories:
+- 信息技术|IT
+tags:
+- blackberry
+- evernote
+- IT
+---
+
+[![logo](http://www.billrain.com/wp-content/uploads/2009/06/logo.gif)](http://www.evernote.com/) 最近如我所愿的发布了[黑莓版本](http://www.evernote.com/about/download/blackberry/)，之前已经支持WindowsMobile和iPhone，现在可谓完全的跨平台了，可以用手机录音或者拍照然后把片段同步到服务器上，当然也可以在手机上查看之前记录的一切备忘录，如果你记录了一些隐私信息的话，可要看好自己的BB哦～
+
+ 
+
+同时，意外发现Google China Map也有重大更新，虽然版本号没变，但是地图详细程度有了很大提升，甚至连北山的烧饼店都有收录，以及各栋寝室的编号，非常强大，找地方更方便了。
+
+ 
+
+另外，FEEDSKY在没有任何通知用户的前提下，擅自在FEED中添加了广告，不得不BS啊，11已经及时在后台把广告植入功能取消了，国内的网络公司真是都会耍流氓呢。
+
+ 
+
+[![logo1](http://www.billrain.com/wp-content/uploads/2009/06/logo1.gif)](http://www.worldcommunitygrid.org/)11最近加入了由IBM提供支持的网格计算项目， 这么强大的机器可不能光制造CO2，得为人类的进步做出点贡献才行，研究一下癌症先，顺便缅怀一下因病去世的人吧。
+
+ 
+
+ 
+
+_World Community Grid 的任务是创建世界上最大的公共计算网格，以执行能够造福人类的项目。        
+我们已经开发了技术基础结构，该结构可作为用于科学研究的网格的基础。我们的成功依靠大家共同贡献各自空闲的计算机时间，让世界变得更美好。_
+
+ 
+
+****_       
+World Community Grid 仅将这项技术用于公共非盈利组织的人道主义研究，如果没有公共网格，这些研究就会因高昂的计算机基础结构成本而无法完成。作为我们对促进人类福祉的承诺，所有的研究结果都将公开，以供全球的研究团体共享。_
+
+ 
+
+_我们的赞助者__        
+IBM 公司在当今行业中最先进的信息技术的创造、开发和生产方面都处于领先地位。它为 World Community Grid 基础结构的构建提供了软件，硬件、技术服务和专业知识，同时还提供了免费的托管、维护和支持。__![](http://www.worldcommunitygrid.org/images/spacer.gif)_
+
+ 
+
+_网格技术原理_
+
+ 
+
+_网格计算将许多单独的计算机连接在一起，从而建立一个具有海量计算能力的大系统，这种系统远远超过几台超级计算机的能力。因为工作被分成若干可以同时处理的小部分，所以研究时间可从几年缩短到几个月。这项技术也更为经济有效，从而能够使宝贵的资金得到更好的利用。__        
+要做出改变，没有比这更容易的了！网格技术易于使用，而且很安全。要开始使用，您只需进行_[_注册_](http://www.worldcommunitygrid.org/reg/viewRegister.do)_, 然后下载一个小程序（即“代理程序”），将它安装到计算机上。        
+您的计算机空闲时，就会从 World Community Grid 的服务器请求特定项目的数据。接着，计算机对数据执行计算，将结果发回服务器，然后请求服务器分配新的工作。您的计算机所执行的每次计算都可为科学家提供重要信息，从而加快研究速度！_
+
+ 
+
+ 
+
+[![bb-web_1](http://www.billrain.com/wp-content/uploads/2009/06/bbweb-1-thumb.png)](http://www.billrain.com/wp-content/uploads/2009/06/bbweb-1.png)

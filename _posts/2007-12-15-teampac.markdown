@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2007-12-15 02:09:34+00:00
+layout: post
+link: http://www.billrain.com/2007/12/teampac/
+slug: teampac
+title: TEAMPAC
+wordpress_id: 473
+categories:
+- 帐如流水|COMMON
+tags:
+- work
+---
+
+昨天年会，在大家的共同努力下，我们组荣获铁人杯冠军，敬请关注后续报道。
+

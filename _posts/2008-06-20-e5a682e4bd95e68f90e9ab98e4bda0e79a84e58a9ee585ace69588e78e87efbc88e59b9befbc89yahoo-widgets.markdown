@@ -1,0 +1,95 @@
+---
+author: billrain
+comments: true
+date: 2008-06-20 08:27:05+00:00
+layout: post
+link: http://www.billrain.com/2008/06/%e5%a6%82%e4%bd%95%e6%8f%90%e9%ab%98%e4%bd%a0%e7%9a%84%e5%8a%9e%e5%85%ac%e6%95%88%e7%8e%87%ef%bc%88%e5%9b%9b%ef%bc%89yahoo-widgets/
+slug: '%e5%a6%82%e4%bd%95%e6%8f%90%e9%ab%98%e4%bd%a0%e7%9a%84%e5%8a%9e%e5%85%ac%e6%95%88%e7%8e%87%ef%bc%88%e5%9b%9b%ef%bc%89yahoo-widgets'
+title: 如何提高你的办公效率（四）&mdash;&mdash;Yahoo Widgets
+wordpress_id: 996
+categories:
+- 信息技术|IT
+- 科普教育|EDU
+tags:
+- IT
+- Lotus Notes
+- OFFICE
+- yahoo
+---
+
+##### 往期回顾
+
+
+
+
+##### [如何提高你的办公效率（三）——NOTES TIPS](http://www.billrain.com/2008/05/notes-tips/)
+
+
+
+
+##### [如何提高你的办公效率（二）_Update your office productivity](http://www.billrain.com/2008/03/update-your-office-productivity/)
+
+
+
+
+##### [如何提高你的办公效率（一）](http://www.billrain.com/2008/03/%e5%a6%82%e4%bd%95%e6%8f%90%e9%ab%98%e4%bd%a0%e7%9a%84%e5%8a%9e%e5%85%ac%e6%95%88%e7%8e%87%ef%bc%88%e4%b8%80%ef%bc%89/)
+
+
+YAHOO和GOOGLE都有桌面套装，11实践后觉得YAHOO的界面和功能和易用性都要更好一些。[中文版](http://cn.widget.yahoo.com/)和[英文版](http://widgets.yahoo.com/)都有，我是一个本一个版，中英文对一些英文的插件有时候不兼容，导致溢出程序关闭，而且更新也没有英文版快，不能保证使用最新版本的WIDGETS。
+
+[![12](http://www.billrain.com/wp-content/uploads/2008/06/12-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/12.png)
+
+11这几天刚刚把评价最高的2个WIDS给下来了，有点相见恨晚，用起来感觉非常好。
+
+
+##### [Informer](http://widgets.yahoo.com/widgets/informer)
+
+
+就是我桌面上最上方的工具条，你可以添加快捷方式，文件夹，GMAIL，FEEDS，系统监视器，硬盘使用率，关机，甚至弹出USB等各种快速链接在上面，并且有新邮件或者FEED会弹出窗口提示，我想合理的布置会很有效的节省你的桌面空间和找东西的速度。
+
+
+##### [Day Planner](http://widgets.yahoo.com/widgets/day-planner-calendar)
+
+
+这是左下角的插件，正如标题所示，这是一个时间管理工具，用来记录TO DO和当天做过的事情，正好满足了我们工作上的需求。而最优秀的地方在于，它可以与[GOOGLE CALENDER](http://www.google.com/calendar)同步日程，你用这个记录的事件会自动更新到GG网上日历，同时你用GG保存的什么纪念日和还款通知了也会更新到桌面，并且可以设置提前通知，11就是把好朋友的生日都保存了起来，并且是每年都会有提醒，因为好朋友就是一辈子的，也是需要我们去关注的。
+
+[![13](http://www.billrain.com/wp-content/uploads/2008/06/13-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/13.png)
+
+另外YAHOO上面还有各种丰富多彩的小应用，小游戏，每天对着电脑的人们用来调剂一下大脑和眼球还是很不错的。
+
+
+##### BUG FIX
+
+
+这几天我的电脑遇到了一些BUG，也许你以后也会遇到，在这里说一下。
+
+<!-- more -->
+1. 更新ADOBE FLASH PLAYER后FIREFOX字体变化
+
+Adobe Flash Player 9 .0.115及更早版本被发现存在高危漏洞：目前利用该漏洞进行传播的病毒最主要有三种，均为下载器。这些病毒运行起来后，会下载另一些木马下载器。这些下载器再从病毒作者指定的远程地址获取即时更新的下载列表，最后根据列表里的地址去下载大量盗号木马。
+
+打过补丁之后，可能你的FF字体莫名其妙的变难看了，那么你应该去看看[这篇文章](http://hall.sociz.com/index.php?showtopic=21482)。
+
+2. 安装雅黑之后，IE字体不齐（非中文内核）
+
+前一阵我装了XP版的雅黑后，IE的汉字就重叠了，百解不得终了，虽然我不用IE，但是XP很多程序是用IE内核的（比如WLW），字体统统跟着不齐，所以不解决是不行的，后来发现IE字体选择必须是跟着系统文字内核走的，你光把中文字体改了根本不会有作用，这种设计还真是令我费解啊。具体帮助在[这里](http://ansxs.com/help/help8_client.nsf/f4b82fbb75e942a6852566ac0037f284/66c583f875eb3a228525728e005096ff?OpenDocument#135679264029218290)。
+
+[![14](http://www.billrain.com/wp-content/uploads/2008/06/14-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/14.png) [![15](http://www.billrain.com/wp-content/uploads/2008/06/15-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/15.png)
+
+3. 如何卸载RIXIO MANAGER（请略过）
+
+这是黑莓手机的媒体管理器，说实话，是我见过最烂的了，不好使不说，非常占用资源，为什么要介绍一下呢?因为你通过常规办法根本卸载不掉，WINDOWS自带程序列表找不到它，用超级兔子找到也卸不掉，这种技术不得不说非常强大，要是让流氓软件学区可不得了，但是越是这种难啃的骨头，越要把它拿下。那到底怎么卸载呢？你先打开黑莓桌面的安装包，开始自解压，到提示选择语言时停下来，然后进入XP卸载程序列表，找到黑莓桌面管理器，选择MODIFY安装，里面把媒体管理器给X掉，然后会提示寻找安装源文件，就是我们刚刚解压的，下一步就是静静的等待了。这种办法即使是11也是打死想不出来的，国内也搜索不到答案，只能求助老外了。
+
+
+##### 最后，附送NOTES最新技巧一则
+
+
+LOTUS NOTES的文字编辑能力一直让我很不爽，没有格式刷，或者说我没有找到，编辑字体样式的时候要点属性栏，很麻烦，在我不断的探索下终于发现一个能简便点的办法。
+
+在属性栏选最后一个TAB，你可以选择几种常用的STYLE，建立后保存起来（3个对号都要打），每次使用的时候直接按F11进行字体切换，但是一换就是一行，还不会区域的改变，即使这样，我想也会省很多力气。
+
+[![16](http://www.billrain.com/wp-content/uploads/2008/06/16-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/16.png)
+
+[![17](http://www.billrain.com/wp-content/uploads/2008/06/17-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/06/17.png)
+
+今天的科普节目就说这些，有问题或者更好的主意欢迎与11联系！

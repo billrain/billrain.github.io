@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2007-08-15 05:52:00+00:00
+layout: post
+link: http://www.billrain.com/2007/08/%e5%9f%b9%e8%ae%ad%e7%bb%93%e6%9d%9f%e4%ba%86/
+slug: '%e5%9f%b9%e8%ae%ad%e7%bb%93%e6%9d%9f%e4%ba%86'
+title: 培训结束了
+wordpress_id: 249
+categories:
+- 帐如流水|COMMON
+tags:
+- ibm
+---
+
+IBM夏令营今天最后一天了，今晚或者明天回沈阳了，家里没有网，所以回大连之前就不上网了，哈。

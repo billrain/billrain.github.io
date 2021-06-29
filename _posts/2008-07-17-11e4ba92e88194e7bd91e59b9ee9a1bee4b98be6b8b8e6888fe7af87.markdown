@@ -1,0 +1,61 @@
+---
+author: billrain
+comments: true
+date: 2008-07-17 12:52:51+00:00
+layout: post
+link: http://www.billrain.com/2008/07/11%e4%ba%92%e8%81%94%e7%bd%91%e5%9b%9e%e9%a1%be%e4%b9%8b%e6%b8%b8%e6%88%8f%e7%af%87/
+slug: 11%e4%ba%92%e8%81%94%e7%bd%91%e5%9b%9e%e9%a1%be%e4%b9%8b%e6%b8%b8%e6%88%8f%e7%af%87
+title: 11PC回忆录之游戏篇VOL1
+wordpress_id: 1068
+categories:
+- 科普教育|EDU
+tags:
+- pcgame
+- top11
+---
+
+## 0. INTRO
+
+话说11已经记不得第一次接触电脑是什么时候了，那也许是长城的0520，大概要比99.97%的你们都要早，所以11在今年要写一系列电脑与网络的回忆录，今天就从游戏先开始，怎么，不来点掌声么？那好，LETS FLY!
+
+## 1. 仙剑奇侠传
+
+<table cellpadding="2" width="823" border="0" cellspacing="10" > <tbody > <tr >
+<td width="367" valign="top" >[![0](http://www.billrain.com/wp-content/uploads/2008/07/0-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/0.jpg)[](http://www.billrain.com/wp-content/uploads/2008/07/1.jpg)[![2](http://www.billrain.com/wp-content/uploads/2008/07/2-thumb.jpg)![1](http://www.billrain.com/wp-content/uploads/2008/07/1-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/2.jpg)
+</td>
+<td width="424" valign="top" >《仙剑奇侠传》1995年7月推出，我玩到这款游戏是在小学六年级，大概是96年的样子，你要是往下看的话，下面的游戏都是系列游戏，而且都是国外的，11把仙剑1放在第一的位置，不仅是它本身就是国产电脑的一个奇迹且唯一的经典，更因为它对我进行了电脑游戏的启蒙教育，在那个看大众软件的年代，仙剑就像教父在IMDB的位置一样，永远保持在游戏排名的第一位，这的确是毋庸置疑的。当年游戏性能受到机器的限制，所以2D的国产游戏在画面和UI上并没有显著的劣势，仙剑的剧情和配乐至今我找不到什么可以超越，包括它后面的仙剑234，虽然我收藏了从1到3包括外传的仙剑正版，我总是认为大宇的3D引擎技术是完全支持不起这个靠剧情吸引人的RPG的。也许是那时刚刚接触新事物，也许那时可以选择的游戏不多，才会令人们始终对仙剑有着难以割舍的情怀，现在的小朋友们是幸运的，因为他们有着众多的选择，但是他们却永远体会不到仙剑带给你的最质朴的纯真的游戏乐趣。 但是话又说回来，一开始11就接触了最好的游戏，以至于建立了非常高的标准，后面玩的国产游戏真是没有进口的多了。  
+
+开发商：[大宇](http://vote.9you.com/xj/review/)（狂徒工作室）
+
+系列：仙剑奇侠传一二三四，仙剑奇侠传三外传：问情篇
+
+画面：★★★★  
+音乐：★★★★★  
+剧情：★★★★★  
+操作：★★★★★（仙剑可是支持手柄操作的哦～）
+
+耐玩度：★★★★  
+评论：如果你玩过或者对这款游戏有什么想法或补充的话，留言给我，我会把他们总结到这里来。
+
+</td></tr></tbody></table>
+
+## 2. 三国志英杰传系列
+
+<table cellpadding="2" width="823" border="0" cellspacing="10" > <tbody > <tr >
+<td width="367" valign="top" >[![4](http://www.billrain.com/wp-content/uploads/2008/07/4-thumb.gif)](http://www.billrain.com/wp-content/uploads/2008/07/4.gif)  
+[![5](http://www.billrain.com/wp-content/uploads/2008/07/5-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/5.jpg) [![6](http://www.billrain.com/wp-content/uploads/2008/07/6-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/6.jpg)
+</td>
+<td width="424" valign="top" >这是同样具有非凡启蒙意义的一款游戏，它开启了三国策略游戏的一个时代（以其区区只有5M的大小，当时是装在5张3软盘里DOS下游戏，让我对游戏设计非常佩服），是我在玩这款游戏时没有按照剧情选错了答案，把玄德公的小命葬送在了袁绍的手里，导致没有保存的游戏直接GG，逼得我去从头读了一遍三国演义，从此陷入了对三国的狂热热爱，而说的再远一点，我对历史的偏爱也是从三国开始，所以英杰传带给我的已经远远超出了一个游戏的意义。就游戏本身，回合制战棋类游戏真的是我的最爱，而且这款游戏设计的难度，也是不会让你轻易的通关，所以小时候会去买大众软件找攻略，收集什么宝物了，隐藏剧情啦之类的，可谓乐此不疲，可能对儿童开发智力也有一定帮助吧，回合类战棋么，说白了就是在地图上走格格，就跟下棋一样，你要考虑到以后几回合的走势，11小时候做事情就很有计划和目标，也许和这有些关系呢，之后的宇峻的超时空英雄传说也是这一类的，但是不知道为什么到后来不出了。英杰传的最后一代，曹操传11现代的机器里面还珍藏着，停水停电无聊的时候缅怀一下还是不错的，的确很耐玩。  
+
+开发商：[KOEI](http://www.koei.com.tw/html/index.html)  
+系列：英杰传，孔明传，毛利元就，曹操传
+
+画面：★★★  
+音乐：★★★  
+剧情：★★★★  
+操作：★★★★★  
+耐玩度：★★★★★
+
+评论：
+
+</td></tr></tbody></table>

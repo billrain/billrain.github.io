@@ -1,0 +1,139 @@
+---
+author: billrain
+comments: true
+date: 2010-01-31 03:23:06+00:00
+layout: post
+link: http://www.billrain.com/2010/01/11%e6%89%80%e7%94%a8%e7%9a%84wp-plugins/
+slug: 11%e6%89%80%e7%94%a8%e7%9a%84wp-plugins
+title: 11所用的WP Plugins
+wordpress_id: 1943
+categories:
+- 信息技术|IT
+tags:
+- WEB
+- wordpress
+---
+
+**AddThis Social Bookmarking Widget **
+
+ 
+
+就是每篇日志左下角的小button
+
+ 
+
+**Akismet**
+
+ 
+
+anti-spam
+
+ 
+
+**All in One SEO Pack**
+
+ 
+
+据说是用来SEO的，其实我的网站不是很需要
+
+ 
+
+**Audio player**
+
+ 
+
+音频播放器，很简单
+
+ 
+
+**Get Recent Comments**
+
+ 
+
+在侧边栏显示最近评论，可能现代的模板都自带这个功能了吧
+
+ 
+
+**Google XML Sitemaps**
+
+ 
+
+如题
+
+ 
+
+**Ozh' Better Feed**
+
+ 
+
+RSS联盟大人强制安装的FEED落款差距……
+
+ 
+
+**Simple Tags**
+
+ 
+
+方便tag使用，转换
+
+ 
+
+**Subscribe To Comments**
+
+ 
+
+用来订阅日志最近评论……我都不确定这个功能好不好用
+
+ 
+
+**WordPress Database Backup**
+
+ 
+
+数据库定期备份——这个很好用
+
+ 
+
+**WordPress Related Posts**
+
+ 
+
+根据tag显示同类日志
+
+ 
+
+**Wordpress Thread Comment**
+
+ 
+
+高级评论类式
+
+ 
+
+**WP-PageNavi**
+
+ 
+
+翻页导航
+
+ 
+
+**WP-Polls**
+
+ 
+
+定制投票
+
+ 
+
+**WP-T-Wap**
+
+ 
+
+WP移动wap版
+
+ 
+
+ 
+
+RSS组长大人可以统计一下组内哪个差距最受欢迎啦

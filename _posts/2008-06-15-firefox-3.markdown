@@ -1,0 +1,20 @@
+---
+author: billrain
+comments: true
+date: 2008-06-15 15:51:20+00:00
+layout: post
+link: http://www.billrain.com/2008/06/firefox-3/
+slug: firefox-3
+title: Firefox 3
+wordpress_id: 971
+categories:
+- 信息技术|IT
+tags:
+- firefox
+---
+
+[![2008下载日](http://www.spreadfirefox.com/sites/all/themes/spreadfirefox_RCS/images/download-day/buttons/zh-CN/dday_badge_fox.png)](http://www.spreadfirefox.com/zh-CN/worldrecord)
+
+[![2008下载日](http://www.spreadfirefox.com/sites/all/themes/spreadfirefox_RCS/images/download-day/buttons/zh-CN/468x60_dday.png)](http://www.spreadfirefox.com/zh-CN/worldrecord)
+
+FF3在17号发布，,11还没有试用，不知道会有什么样的新特性，后天就知道了，不过在上面网站看到，CN用FF的人还是非常少的，相比于网民总数，，当然在我们公司还有很多人用IE也不用指望外面的人去改善生产力了，这次要借这个机会，好好普及一下FF。

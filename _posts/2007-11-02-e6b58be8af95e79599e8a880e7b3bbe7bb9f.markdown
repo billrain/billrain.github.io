@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2007-11-02 06:18:31+00:00
+layout: post
+link: http://www.billrain.com/2007/11/%e6%b5%8b%e8%af%95%e7%95%99%e8%a8%80%e7%b3%bb%e7%bb%9f/
+slug: '%e6%b5%8b%e8%af%95%e7%95%99%e8%a8%80%e7%b3%bb%e7%bb%9f'
+title: 测试留言系统
+wordpress_id: 366
+categories:
+- 帐如流水|COMMON
+---
+
+现在需要添加邮件地址才能发表评论，看看是不？

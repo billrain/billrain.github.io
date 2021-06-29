@@ -1,0 +1,69 @@
+---
+author: billrain
+comments: true
+date: 2009-03-28 11:30:33+00:00
+layout: post
+link: http://www.billrain.com/2009/03/%e9%87%8d%e8%bf%94%e6%a1%8c%e9%9d%a2%e6%97%b6%e4%bb%a3/
+slug: '%e9%87%8d%e8%bf%94%e6%a1%8c%e9%9d%a2%e6%97%b6%e4%bb%a3'
+title: 重返桌面时代
+wordpress_id: 1504
+categories:
+- 动如脱兔|ACTIVITY
+tags:
+- IT
+- PC
+---
+
+11上周终于攒出了应该是我的第三代的桌面系统——Master11，大致属于宝马5系的水准吧，除显示器外都是在DL本地拿的，主要特点除了快，主推静音智能环保和节能了，虽然这是一套耗电量非常大的系统，但主板和电源都是具有动态节能功能的，四核+RAID0在系统内部可以说没有瓶颈，唯一影响速度的可能就是光驱和USB的带宽了，短时间内还没有超频的打算，有点浪费这2根红龙了，目前还是XP32位的系统，等下半年直接换个W7才能充分发挥整机性能应该。
+
+ 
+
+  <table cellpadding="2" cellspacing="0" align="center" border="0" width="362" ><tbody >       <tr >         
+<td width="63" valign="top" >CPU
+</td>          
+<td width="297" valign="top" >[Intel Core2 Q8200盒装](http://www.360buy.com/product/134251.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >主板
+</td>          
+<td width="305" valign="top" >[华硕 P5Q](http://www.360buy.com/product/129249.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >内存
+</td>          
+<td width="305" valign="top" >[威刚 红色威龙极致DDR2 800+X2](http://www.360buy.com/product/123563.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >显卡
+</td>          
+<td width="305" valign="top" >[影驰 GTX260+](http://www.360buy.com/product/136628.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >硬盘
+</td>          
+<td width="305" valign="top" >[希捷 7200.12 500GX2](http://www.360buy.com/product/147149.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >显示器
+</td>          
+<td width="305" valign="top" >[AOC 2434PW](http://www.360buy.com/product/149262.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >机箱
+</td>          
+<td width="305" valign="top" >[酷冷 Sileo500](http://www.360buy.com/product/145868.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >电源
+</td>          
+<td width="305" valign="top" >[航嘉 多核F1 600W](http://www.360buy.com/product/115723.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >散热器
+</td>          
+<td width="305" valign="top" >[九州风神 黑虎鲸](http://www.360buy.com/product/129144.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >键鼠
+</td>          
+<td width="305" valign="top" >[罗技 Wave Pro](http://www.360buy.com/product/139762.html)
+</td>       </tr>        <tr >         
+<td width="66" valign="top" >网卡
+</td>          
+<td width="305" valign="top" >[TP-Link WN851N 300M](http://www.360buy.com/product/121708.html)
+</td>       </tr>     </tbody></table>
+
+ 
+
+[![SN201253](http://www.billrain.com/wp-content/uploads/2009/03/sn201253-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201253.jpg) [![SN201214](http://www.billrain.com/wp-content/uploads/2009/03/sn201214-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201214.jpg) [![SN201219](http://www.billrain.com/wp-content/uploads/2009/03/sn201219-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201219.jpg) [![SN201224](http://www.billrain.com/wp-content/uploads/2009/03/sn201224-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201224.jpg) [![SN201226](http://www.billrain.com/wp-content/uploads/2009/03/sn201226-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201226.jpg) [![SN201238](http://www.billrain.com/wp-content/uploads/2009/03/sn201238-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201238.jpg) [![SN201246](http://www.billrain.com/wp-content/uploads/2009/03/sn201246-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201246.jpg) [![SN201263](http://www.billrain.com/wp-content/uploads/2009/03/sn201263-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2009/03/sn201263.jpg)

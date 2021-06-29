@@ -1,0 +1,18 @@
+---
+author: billrain
+comments: true
+date: 2009-01-19 12:14:38+00:00
+layout: post
+link: http://www.billrain.com/2009/01/msn9-crash%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+slug: msn9-crash%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: MSN9 CRASH的解决办法
+wordpress_id: 1400
+categories:
+- 信息技术|IT
+- 科普教育|EDU
+tags:
+- debug
+- IT
+---
+
+MSN9或者说Live Messager9已经出来有一段时间了，加入了自带的群功能，不过需要都安装9才能使用。前一阵9一直出现莫名的崩溃，在任务栏点小图标就直接死掉，BETA的时候就是这样，开始以为是语言以及内核不同的问题，后证明不是，反复安装了几次发现了是MS的.NET FRAMEWORK的问题，机器里面原有1，2，WLM安装的是3，这么多版本放在一起难免不BUG了，不过也说明MS的东西也不是很智能，全部卸掉自后从新安装WLM套装以及.NET3，然后再安装2的话也不会出现CRASH了。

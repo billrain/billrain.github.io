@@ -1,0 +1,75 @@
+---
+author: admin
+comments: true
+date: 2010-05-01 06:41:54+00:00
+layout: post
+link: http://www.billrain.com/2010/05/50000/
+slug: '50000'
+title: 50,000
+wordpress_id: 2153
+categories:
+- 博客生平|BLOG
+tags:
+- blogger
+---
+
+在五一劳动节这迷人的上午，11的博客总访问量突破5W关口，虽然这是一个很小的数字，但对于如此低调的网站也来自不易。据下图显示，目前为止11博客的访问者遍布6大洲3大洋——就差南极洲和北冰洋——80多个国家和地区，其中甚至包括海地，卢旺达，安哥拉，阿尔巴尼亚等各种陌生的国家，访问者排名前11位分别为：China (CN) Canada (CA) United States (US) Japan (JP) Asia/Pacific Region (AP) Hong Kong (HK) Taiwan (TW) United Kingdom (GB) Germany (DE) Australia (AU) Singapore (SG) ——除了HK TW GB都是有我亲人的地方呀～（王同学回国后JP流量降至第四位）
+
+ 
+
+[![1](http://www.billrain.com/wp-content/uploads/2010/05/1_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/05/1.png)
+
+ 
+
+根据Google Analytics 2年以来的统计（2008/04/30-2010/04/30），
+
+ 
+
+    
+访问次数 32,856 
+
+ 
+
+绝对唯一身份访问者人数 25,226 
+
+ 
+
+综合浏览量 44,282 
+
+ 
+
+平均综合浏览量 1.35 
+
+ 
+
+网站停留时间 00:00:55
+
+ 
+
+跳出率 83.90%
+
+ 
+
+新访问 76.60%
+
+ 
+
+  
+  1. 其中84%使用IE浏览器（72%为IE6或以下版本），FF和GG浏览器分别只占了9.7%和3.5%（其中我自己有很大比重）——可见访问本IT精英博客的多为非IT专业人士
+   
+  2. 操作系统97%为Windows毫无悬念，分辨率48%为1024x768——低端设备占主流
+   
+  3. 来访者中只访问了1次的占76%，经常来访（9次以上）为12%——走马观花的都是
+   
+  4. 在流量来源方面，百度贡献了很多——虽然我从来不用，但不能不让别人用![2](http://www.billrain.com/wp-content/uploads/2010/05/2_thumb.png)
+   
+  5. 搜索关键字基本都不靠谱——在百度搜索11我的网站曾一度排名第一并屡居前三，现在排名最高的是“东京一日游”了吧…… [![3](http://www.billrain.com/wp-content/uploads/2010/05/3_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/05/3.png)
+   
+  6. 被访问最多的网页是艾薇儿和东京导游，几个科教栏目也成功打榜——平均页面停留时间还可以，说明还是有人认真看的[![4](http://www.billrain.com/wp-content/uploads/2010/05/4_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/05/4.png)
+   
+  7. 曾经一度访问量日均100多，其中有百度爬虫的功劳，也有被收录推荐文章的点击，后来就趋于平稳了——低调![5](http://www.billrain.com/wp-content/uploads/2010/05/5_thumb.png)
+   
+  8. 搜索引擎贡献了大半流量，而随着受关注的内容的减少，通过搜索过来的也就慢慢变少了，而直接流量都是朋友，流量非常稳定[![6](http://www.billrain.com/wp-content/uploads/2010/05/6_thumb.png)](http://www.billrain.com/wp-content/uploads/2010/05/6.png)
+ 
+
+综上所述，网站内容还是非常重要的决定因素，虽然我不做SEO，搜索引擎也能决定一个网站的命运（被什么央视广电封杀的后果都不如被搜索引擎封杀来的惨），以后有时间还得继续做我的电影音乐和科普栏目啊。

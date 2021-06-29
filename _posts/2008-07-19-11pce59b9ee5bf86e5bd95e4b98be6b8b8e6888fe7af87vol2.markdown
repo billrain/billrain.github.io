@@ -1,0 +1,108 @@
+---
+author: billrain
+comments: true
+date: 2008-07-19 08:36:23+00:00
+layout: post
+link: http://www.billrain.com/2008/07/11pc%e5%9b%9e%e5%bf%86%e5%bd%95%e4%b9%8b%e6%b8%b8%e6%88%8f%e7%af%87vol2/
+slug: 11pc%e5%9b%9e%e5%bf%86%e5%bd%95%e4%b9%8b%e6%b8%b8%e6%88%8f%e7%af%87vol2
+title: 11PC回忆录之游戏篇VOL2
+wordpress_id: 1090
+categories:
+- 科普教育|EDU
+tags:
+- pcgame
+- top11
+---
+
+## 3. 三国志系列
+
+
+<table cellpadding="2" cellspacing="10" border="0" width="901" >
+<tbody >
+<tr >
+
+<td width="449" valign="top" >[![1](http://www.billrain.com/wp-content/uploads/2008/07/1-thumb.gif)](http://www.billrain.com/wp-content/uploads/2008/07/1.gif)
+[![2](http://www.billrain.com/wp-content/uploads/2008/07/2-thumb.gif)](http://www.billrain.com/wp-content/uploads/2008/07/2.gif)
+[![3](http://www.billrain.com/wp-content/uploads/2008/07/3-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/3.jpg)
+</td>
+
+<td width="420" valign="top" >光荣的三国志真算是11从小玩到大的游戏了，虽然光荣是一家日本游戏公司，其作品对三国的理解要比任何中国制作都要深刻，尤其是美工对每个三国武将的刻画，真实的还原了人物的形象，使我对历史的想象立刻丰满起来。在我看来，玩三国志的男人和不玩三国志的男人是不一样的，所谓时势造英雄，难道你心中没有一个成就帝王之业的梦想么？如果有机会穿梭时空，11一定要回到公元183去看一看那些英雄们。
+
+11玩的第一款三国志是第四代，DOS版本，大概也不到10M的样子，玩的不多，因为马上就转到了三国5上面，这是多少人公认的最经典的一代，也是第一版WINDOWS平台的三国游戏，是11通关次数最多的一代，几乎用每个君主都完成过游戏（当然那时通关时间比现代的短的多）。在随后10年间，光荣定期都会发布新款的系列作品，包括各个加强版，期间游戏模式也在回合、即时/战略、养成之间交叠，却始终拥有最大忠诚的玩家群，甚至每次新版推出对某个武将属性更改都会引起大规模的争论，说到属性，三国志历代最推崇的武将非赵云莫属，头像永远是最帅的，能力也是最全面出众的，导致子龙拥有无数粉丝（见龙卸甲不算）。一款游戏能有10年的生命力，在业界是极为少见的，每次还都要在维持传统的基础上带给玩家新意和惊喜，在技术上和内容上，是很不容易的，虽然每一次都不免有人说是旧瓶新酒，但是对玩家来说，无论如何也不希望看到这一系列游戏的终止。
+
+开发商：[KOEI](http://www.koei.com.tw/html/index.html)
+
+系列：三国志1-11
+
+画面：★★★★
+音乐：★★★★
+剧情：★★★★
+操作：★★★★★
+耐玩度：★★★★★
+</td>
+</tr>
+</tbody></table>
+
+
+## 4. 文明系列
+
+
+<table cellpadding="2" cellspacing="10" border="0" width="900" >
+<tbody >
+<tr >
+
+<td width="450" valign="top" >
+
+
+[![4](http://www.billrain.com/wp-content/uploads/2008/07/4-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/4.jpg) [![6](http://www.billrain.com/wp-content/uploads/2008/07/6-thumb1.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/61.jpg)
+
+
+
+</td>
+
+<td width="450" valign="top" >Sid Meler是一位伟大的游戏设计师，他的文明是[世界游戏史上](http://top100.ign.com/2005/001-010.html)第四名的游戏。同三国志一样，这是一款回合制策略类游戏，而不同的是它把游戏背景设定为从公元前1000年开始到现在，正如名字一样，浓缩了整个人类文明发展的历史，因此它在世界范围内都以其独一无二的设计赢得了玩家的认可。带领一个民族与其他文明争夺发展空间当然要比逐鹿中原更加雄伟，所以当你扮演始皇帝去把旁边某个岛国从地球上消灭了的时候，多少是能体会到征服的成就感的。文明10年间只发布过3个版本，不像三国志这么频繁，但是欧美游戏商赚钱的方法是发布资料片，每一代会发布2-3个PACK，所以加起来也不比三国少，而且文明支持多人联网游戏（没玩过）和玩家自定义MOD，玩家可以自己定制剧情地图，应该会大大加强游戏的可玩性。可贵的是，这部游戏就像一部人类文明的小百科全书一样，沿着游戏发展，你将经历人类社会进程中的科技与宗教的变革，建造每个民族特有的奇迹建筑，亲身感受驾驭历史的车轮前进的精彩旅程。
+
+开发商：[Firaxis Games](http://firaxis.com/)
+
+系列：文明ⅡⅢⅣ以及资料片若干
+
+画面：★★★★★
+音乐：★★★
+剧情：★★★★
+操作：★★★★★
+耐玩度：★★★★★
+
+[![7](http://www.billrain.com/wp-content/uploads/2008/07/7-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/7.jpg)
+</td>
+</tr>
+</tbody></table>
+
+
+## 5. 星际争霸
+
+
+<table cellpadding="2" cellspacing="10" border="0" width="900" >
+<tbody >
+<tr >
+
+<td width="450" valign="top" >[![8](http://www.billrain.com/wp-content/uploads/2008/07/8-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/8.jpg)
+[![8](http://www.billrain.com/wp-content/uploads/2008/07/8-thumb.png)](http://www.billrain.com/wp-content/uploads/2008/07/8.png)
+</td>
+
+<td width="450" valign="top" >终于轮到暴雪了，是的，这个可能是星球上最好的游戏公司，精益求精的品质造就了PC游戏的诸多神话，暴雪出品必属精品似乎以深入人心，星际，暗黑和魔兽世界对游戏，电子竞技和网游来说都是革命性的，说暴雪在推动PC游戏的发展也不为过。STARCFRAT不是世界上第一款即时战略游戏，也许那是沙丘，也不是第一款获得广泛认可的RTS游戏，也许那是命令与征服，实际上很多游戏概念也不是暴雪首先发现的，但事实证明了，暴雪是把它们运用的最好的，星际是历史上最优秀的即时战略游戏，这一点上，WARCRAFT是争不过的，下面介绍的英雄连也是比不了的，至于原因，只有你在我上高中那个年代亲身经历过才能知道，它的确将真人对战和多人联机的乐趣发挥到了极致，以至于在我们这个名校内也有很多人中午晚上一放学就成群结队的去网吧或机房打星际，嗯，素质教育么，当然要全面发展，所以我们班的星际水平在全校还是数一数二的，打遍方圆的网吧险逢敌手，即使现在回想起来，也是蛮得意的。那么你知道11打星际选择哪个种族么？1. ZERG 2. TERRAN 3. PROTOSS 4.RANDOM
+星际2和暗黑3已经在开发进程了，看来要攒钱买一台强悍的台式机了。
+
+开发商：[暴雪娱乐](http://www.blizzard.com/us/starcraft/)
+
+系列：星际争霸1  2在ING
+
+画面：★★★★
+音乐：★★
+剧情：★★
+操作：★★★★★
+耐玩度：★★★★
+
+[![9](http://www.billrain.com/wp-content/uploads/2008/07/9-thumb.jpg)](http://www.billrain.com/wp-content/uploads/2008/07/9.jpg)
+</td>
+</tr>
+</tbody></table>

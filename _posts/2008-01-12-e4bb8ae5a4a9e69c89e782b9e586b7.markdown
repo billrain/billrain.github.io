@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2008-01-12 14:34:10+00:00
+layout: post
+link: http://www.billrain.com/2008/01/%e4%bb%8a%e5%a4%a9%e6%9c%89%e7%82%b9%e5%86%b7/
+slug: '%e4%bb%8a%e5%a4%a9%e6%9c%89%e7%82%b9%e5%86%b7'
+title: 今天有点冷
+wordpress_id: 551
+categories:
+- 帐如流水|COMMON
+tags:
+- 帐如流水|COMMON
+---
+
+春节休假初步定为2.1-13号，提前一周接受预约

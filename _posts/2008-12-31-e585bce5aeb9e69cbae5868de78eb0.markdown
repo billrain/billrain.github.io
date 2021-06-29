@@ -1,0 +1,88 @@
+---
+author: admin
+comments: true
+date: 2008-12-31 09:25:47+00:00
+layout: post
+link: http://www.billrain.com/2008/12/%e5%85%bc%e5%ae%b9%e6%9c%ba%e5%86%8d%e7%8e%b0/
+slug: '%e5%85%bc%e5%ae%b9%e6%9c%ba%e5%86%8d%e7%8e%b0'
+title: 兼容机再现
+wordpress_id: 1381
+categories:
+- 动如脱兔|ACTIVITY
+tags:
+- PC
+---
+
+![](http://lh3.ggpht.com/_lAHIYwHGO4A/SVsoCTfSwgI/AAAAAAAAIxs/0dzWxi1Rhc0/s720/SDC10009.JPG)
+
+ 
+
+昨天去三好街配了一台机器，好久没有装过机器了，22的LCD用起来还真爽啊，昨天一不小心按下了机箱上的小圆按钮，瞬间竟然重启了，我才意识到原来台式机还有RESET键呢，好几年没见过了啊~看来我是有必要在攒一台强力PC了，你说我是买一台24的LCD还是19+22各买一个呢？ 
+
+ 
+
+这台机器具体配置如下（单位为RMB）
+
+ 
+
+CPU AMD4200+ 2.2G 盒装 - 285
+
+ 
+
+主板 昂达N680 - 450
+
+ 
+
+内存 金士顿 DDR2 800 – 112
+
+ 
+
+硬盘 希捷250G – 295
+
+ 
+
+显卡/声卡 -集成
+
+ 
+
+显示器 LG W2242S – 1350
+
+ 
+
+鼠标键盘 - 30（没用）
+
+ 
+
+机箱电源 爱国者 300多吧
+
+ 
+
+无线网卡+路由 TPLINK - 105+135
+
+ 
+
+TOTAL=3240
+
+ 
+
+真是便宜啊，要是不玩游戏日常上网干啥的都能胜任，至于我自己要配的一台游戏机么，大概配置是这样的，你要懂可以给我参谋下哈
+
+ 
+
+INTEL酷睿2四核 Q8200 + 华硕P5Q + DDR2 800 2GX2 + 希捷 1T 32M + 影驰9800GTX上将 + HP/SAMSUNG/DELL 24’LCD or 19plus22 + 罗技MX500/WAVE +酷冷/TT 机箱散热电源
+
+ 
+
+嗯 你猜多钱吧
+
+ 
+
+![](http://lh3.ggpht.com/_lAHIYwHGO4A/SVtY9weY7DI/AAAAAAAAI1U/aSRW9Gfuz7w/s720/SDC10023.JPG)
+
+ 
+
+ 
+
+ 
+
+ 

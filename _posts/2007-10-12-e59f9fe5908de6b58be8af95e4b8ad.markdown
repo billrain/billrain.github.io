@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-10-12 07:46:00+00:00
+layout: post
+link: http://www.billrain.com/2007/10/%e5%9f%9f%e5%90%8d%e6%b5%8b%e8%af%95%e4%b8%ad/
+slug: '%e5%9f%9f%e5%90%8d%e6%b5%8b%e8%af%95%e4%b8%ad'
+title: 域名测试中
+wordpress_id: 284
+categories:
+- 帐如流水|COMMON
+---
+
+域名空间链接比较顺利了，现在主要是模板的处理问题了，不会用HTML。。。

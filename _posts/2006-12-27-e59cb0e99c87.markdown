@@ -1,0 +1,16 @@
+---
+author: billrain
+comments: true
+date: 2006-12-27 09:38:00+00:00
+layout: post
+link: http://www.billrain.com/2006/12/%e5%9c%b0%e9%9c%87/
+slug: '%e5%9c%b0%e9%9c%87'
+title: 地震
+wordpress_id: 30
+categories:
+- 帐如流水|COMMON
+---
+
+今天台湾地震  
+国外出口好像断了  
+各种无法访问

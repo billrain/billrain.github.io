@@ -1,0 +1,14 @@
+---
+author: billrain
+comments: true
+date: 2007-03-01 15:00:00+00:00
+layout: post
+link: http://www.billrain.com/2007/03/%e6%b5%8b%e8%af%95/
+slug: '%e6%b5%8b%e8%af%95'
+title: 测试
+wordpress_id: 106
+categories:
+- 帐如流水|COMMON
+---
+
+11的朋友们来做个测试玩吧，[07最新版](http://billrain.testren.com)。。

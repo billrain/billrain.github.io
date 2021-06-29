@@ -1,0 +1,20 @@
+---
+author: billrain
+comments: true
+date: 2006-12-16 10:25:00+00:00
+layout: post
+link: http://www.billrain.com/2006/12/hoho/
+slug: hoho
+title: HOHO
+wordpress_id: 16
+categories:
+- 映像纪录|IMAGE
+tags:
+- friends
+---
+
+[![](http://static.flickr.com/142/323708434_2e3b84bc38_m.jpg)](http://www.flickr.com/photos/billrain/323708434/)
+ [My creation](http://www.flickr.com/photos/billrain/323708434/)
+Originally uploaded by [billrain97](http://www.flickr.com/people/billrain/). 
+
+怎么样

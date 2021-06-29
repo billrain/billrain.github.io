@@ -1,0 +1,17 @@
+---
+author: billrain
+comments: true
+date: 2006-12-15 16:19:00+00:00
+layout: post
+link: http://www.billrain.com/2006/12/nothing/
+slug: nothing
+title: nothing
+wordpress_id: 13
+categories:
+- 映像纪录|IMAGE
+tags:
+- blogger
+- Google
+---
+
+[![](http://photos1.blogger.com/x/blogger2/7980/783536085940926/320/369358/wantedposter11.jpg)](http://photos1.blogger.com/x/blogger2/7980/783536085940926/1600/20045/wantedposter11.jpg)  use to link [![Posted by Picasa](http://photos1.blogger.com/pbp.gif)](http://picasa.google.com/blogger/)

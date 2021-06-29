@@ -2,16 +2,12 @@
   url: /
 - title: About
   url: /about
-- title: Styles
-  url: /styles
-- title: Pages
+- title: 分类
   url: /#
-  sublinks: 
+  sublinks:
     - title: About
       url: /about
     - title: Contact
       url: /contact
     - title: 404
       url: /404
-- title: Contact
-  url: /contact

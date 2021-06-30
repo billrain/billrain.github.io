@@ -2,6 +2,7 @@
 author: admin
 comments: true
 date: 2020-02-11 13:58:00+00:00
+post_image: /assets/images/blog-img-5.jpg
 layout: post
 link: http://www.billrain.com/2020/02/%e6%96%b0%e5%8a%a0%e5%9d%a1%e4%bc%a0%e6%9f%93%e7%97%85%e4%b8%ad%e5%bf%83%e9%9a%94%e7%a6%bb%e8%ae%b0/
 slug: '%e6%96%b0%e5%8a%a0%e5%9d%a1%e4%bc%a0%e6%9f%93%e7%97%85%e4%b8%ad%e5%bf%83%e9%9a%94%e7%a6%bb%e8%ae%b0'
@@ -208,4 +209,3 @@ categories:
 
 
 ![](http://www.billrain.com/billrain/wp-content/uploads/img_8235-769x1024.jpg)久违的一米阳光真好！
-

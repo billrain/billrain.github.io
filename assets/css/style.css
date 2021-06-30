@@ -829,7 +829,7 @@ ul#results-container {
 .header-nav-white .header-logo img {
   -webkit-filter: brightness(0) invert(1);
           filter: brightness(0) invert(1);
-  max-height: 40px; }
+  max-height: 120px; }
   @media (min-width: 768px) and (max-width: 991px) {
     .header-nav-white .header-logo img {
       -webkit-filter: inherit;
@@ -875,7 +875,7 @@ ul#results-container {
   .fixed-nav .header-logo img {
     -webkit-filter: inherit;
             filter: inherit;
-    max-height: 25px; }
+    max-height: 120px; }
   .fixed-nav .collapse-btn .collapse-bar {
     background-color: #14161b; }
 

@@ -3,11 +3,4 @@
 - title: About
   url: /about
 - title: category
-  url: /#
-  sublinks:
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
-    - title: 404
-      url: /404
+  url: /category

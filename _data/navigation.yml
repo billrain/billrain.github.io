@@ -2,7 +2,7 @@
   url: /
 - title: About
   url: /about
-- title: 分类
+- title: category
   url: /#
   sublinks:
     - title: About

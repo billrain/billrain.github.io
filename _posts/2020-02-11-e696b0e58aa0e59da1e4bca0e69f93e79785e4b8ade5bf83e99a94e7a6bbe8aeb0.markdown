@@ -2,10 +2,8 @@
 author: admin
 comments: true
 date: 2020-02-11 13:58:00+00:00
-post_image: /assets/images/blog-img-5.jpg
+post_image: /assets/images/blog/img_8226.jpg
 layout: post
-link: http://www.billrain.com/2020/02/%e6%96%b0%e5%8a%a0%e5%9d%a1%e4%bc%a0%e6%9f%93%e7%97%85%e4%b8%ad%e5%bf%83%e9%9a%94%e7%a6%bb%e8%ae%b0/
-slug: '%e6%96%b0%e5%8a%a0%e5%9d%a1%e4%bc%a0%e6%9f%93%e7%97%85%e4%b8%ad%e5%bf%83%e9%9a%94%e7%a6%bb%e8%ae%b0'
 title: 新加坡传染病中心隔离记
 wordpress_id: 3726
 categories:
@@ -29,7 +27,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8167-768x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8167.jpg)
 
 
 
@@ -41,7 +39,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8171-768x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8171.jpg)
 
 
 
@@ -53,7 +51,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8174-769x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8174.jpg)
 
 
 
@@ -65,7 +63,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8176-768x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8176.jpg)
 
 
 
@@ -79,7 +77,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8178-1024x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8178.jpg)
 
 
 
@@ -101,7 +99,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8181-768x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8181.jpg)
 
 
 
@@ -115,15 +113,15 @@ categories:
 
 
 
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8182-768x1024.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8183-1024x768.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8184-1024x768.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8186-1024x768.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8185-1024x768.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8187-768x1024.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8202-1024x1024.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8189-768x1024.jpg)
-  * ![](http://www.billrain.com/billrain/wp-content/uploads/img_8190-1024x768.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8182.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8183.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8184.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8186.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8185.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8187.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8202.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8189.jpg)
+  * ![]({{site.baseurl}}/assets/images/blog/img_8190.jpg)
 
 
 
@@ -152,7 +150,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8227-1-768x1024.jpg)门口护士站存放的3M口罩，此刻是不是感觉像金山？
+![]({{site.baseurl}}/assets/images/blog/img_8227.jpg)门口护士站存放的3M口罩，此刻是不是感觉像金山？
 
 
 
@@ -172,7 +170,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8205-1-768x1024.jpg)早餐的老鼠粉加MILO
+![]({{site.baseurl}}/assets/images/blog/img_8205.jpg)早餐的老鼠粉加MILO
 
 
 
@@ -184,7 +182,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8207-1024x768.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8207.jpg)
 
 
 
@@ -196,7 +194,7 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8226-717x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_8226.jpg)
 
 
 
@@ -208,4 +206,4 @@ categories:
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_8235-769x1024.jpg)久违的一米阳光真好！
+![]({{site.baseurl}}/assets/images/blog/img_8235.jpg)久违的一米阳光真好！

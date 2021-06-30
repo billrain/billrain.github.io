@@ -11,13 +11,10 @@ url: "https://billrain.github.io" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 dark_header:  false
 logo_url: /assets/images/header-logo.png
-cover_image: /assets/images/blog-img-13.jpg
+cover_image: /assets/images/They-all-call-me-11.png
 mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
-dribble_url:
-facebook_url: https://facebook.com/themeix
 instagram_url:
-twitter_url:
-pinterest_url: 
+
 
 
 # Build Settings

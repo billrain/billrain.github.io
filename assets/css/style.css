@@ -454,7 +454,7 @@ h1, h2, h3, h4, h5, h6 {
       left: 15px;
       z-index: 1000; } }
   .header-logo img {
-    max-height: 40px; }
+    max-height: 120px; }
 
 #header-menu {
   list-style: none;
@@ -1169,7 +1169,7 @@ ul#results-container {
 
 /**
 * ============================
-*  9.0 Single Blog Area 
+*  9.0 Single Blog Area
 * ============================
 */
 .sub-title {

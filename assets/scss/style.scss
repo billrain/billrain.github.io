@@ -576,7 +576,7 @@ ul#results-container {
     }
     .header-logo img {
          filter: brightness(0) invert(1);
-         max-height:40px;
+         max-height:120px;
          @include desktop{
              filter:inherit;
         }
@@ -626,7 +626,7 @@ ul#results-container {
     }
      .header-logo img {
          filter: inherit;
-         max-height:25px;
+         max-height:120px;
     }
      .collapse-btn .collapse-bar {
          background-color: $bg-color2;

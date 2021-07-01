@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2012-09-16 15:08:50+00:00
 layout: post
-link: http://www.billrain.com/2012/09/live-to-live/
-slug: live-to-live
 title: Live, to live
 wordpress_id: 2866
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---
@@ -21,7 +19,8 @@ tags:
 
 头盔？哦 其实头盔还在我头上 不然这篇文章的第一秒钟就不会存在<!-- more -->
 
-[![]({{site.baseurl}}/assets/images/blog/img_1191.jpg)]({{site.baseurl}}/assets/images/blog/img_1191.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_1191.jpg)
+
 当我本能地坐起来检视周围 回想发生了什么 并判断自己的身体状况之时 我并没有意外自己的大脑可以在受到剧烈的震荡之后仍然可以高效并行地处理了这三个任务
 
 最重要的 是我发现四周地上其实并没有我的头盔的时候 我知道了 我还活着 99%确定

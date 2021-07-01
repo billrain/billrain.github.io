@@ -110,20 +110,15 @@ categories:
 
 
 
-
-
-
-  * ![]({{site.baseurl}}/assets/images/blog/img_8182.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8183.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8184.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8186.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8185.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8187.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8202.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8189.jpg)
-  * ![]({{site.baseurl}}/assets/images/blog/img_8190.jpg)
-
-
+  ![]({{site.baseurl}}/assets/images/blog/img_8182.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8183.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8184.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8186.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8185.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8187.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8202.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8189.jpg)
+  ![]({{site.baseurl}}/assets/images/blog/img_8190.jpg)
 
 
 
@@ -133,11 +128,8 @@ categories:
 
 
 
-
-
-
-  * 给带进来的医疗器械消毒，所有接触过我的东西，扔到病房里的垃圾桶，洗手
-  * 带设备进缓冲区，缓冲区消毒护目镜，丢弃口罩，洗手出门
+  给带进来的医疗器械消毒，所有接触过我的东西，扔到病房里的垃圾桶，洗手
+  带设备进缓冲区，缓冲区消毒护目镜，丢弃口罩，洗手出门
 
 
 

@@ -2,13 +2,12 @@
 author: admin
 comments: true
 date: 2016-01-17 15:10:49+00:00
+post_image: assets/images/blog-img-8.jpg
 layout: post
-link: http://www.billrain.com/2016/01/the-absolute-freedom/
-slug: the-absolute-freedom
 title: The absolute freedom
 wordpress_id: 3019
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - cycle
 ---

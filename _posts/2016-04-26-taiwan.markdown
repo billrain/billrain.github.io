@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-04-26 07:16:24+00:00
-post_image: /assets/images/blog/img_4032.png
+post_image: /assets/images/blog/img_4032.jpg
 layout: post
 title: 慢走骑遇记之2016捷安特环台
 wordpress_id: 3047
@@ -23,57 +23,40 @@ tags:
 ![]({{site.baseurl}}/assets/images/blog/img_4038-1.jpg)
 一路經過的城市、鄉村、山谷、海岸，對我都是陌生的，從踏上腳踏車駛出第一個路口開始，幕幕不同的畫面就在接連不斷地衝擊我的感官系統，大腦既要馬不停蹄地處理這些信息，還要保持身體和座駕的平衡，可以說這一路上我是完全把自己【置身事外】於以往的一起經驗習慣之外，工作或平常生活中的任何瑣事都沒有機會來煩到我，不得不說，這是對大腦很好的放鬆和休息。 靚麗的風景帶來的視覺上的衝擊，和你吸進的涼爽的自然的空氣，很大程度上緩解了踩踏運動產生的勞累，白天騎行的過程中，時刻處於緊張興奮的狀態，當渾身肌肉適應了機械運動強度，巡航就像步行一樣並不會使我們感到疲勞，真正疲勞的時候是騎了一天車回到酒店淋浴洗衣之後，趟到床上和每天早上起床的時候（爬山另算）。
 
-
-[![]({{site.baseurl}}/assets/images/blog/img_4039-576x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4039.jpg)
-
-
+![]({{site.baseurl}}/assets/images/blog/img_4039.jpg)
 
 
 收穫風景之外，長時間連續的團隊騎行，的確會讓騎手對自行車這項運動產生全新的認識，騎行台灣創造了我騎行生涯的多個第一次：第一次**海外**騎行，第一次**多天長途**騎行，第一次**爬山，**第一次車隊**高速跟車**，以及第一次騎**碳車**……，因為年紀比較小，車子比較快，一路上不得不保持在第一集團前進（爬山時候真跟不上了），騎下來還是可以得到資深騎士的認可。卡鞋買了幾年斷斷續續卻沒有怎麼用過，累計的路程不夠始終會擔心摔車（第一天等紅燈時果然**原地x3**摔了……），不過經過300公里的磨合之後，卡鞋的障礙完全翻篇，人車腿鞋之間產生默契之後我可以完全駕馭Propel這台破風型車輛，出於空氣動力設計，Propel平路的前進性非常突出，甚至有一些逆風路段，我都感覺不到逆風存在，只要不是連續的山坡都如履平地，下坡時更需要挺胸抬頭增加風阻來降低車速……從鋁到碳的確可以在速度上得到質的飛躍。當然和資深騎士們一起出行，可以學到很多騎行的禮儀和技巧，重要的是團隊出行除了拉風以外可以最大限度保障出行人員的安全，前方或後方有什麼路況中間的騎手都可以及時了解，每個人都有責任和義務照顧前後其他騎手的安全，雖然期間發生了兩起令人心有餘悸的翻車事故，所幸摔車的夥伴都沒有大礙，也沒有造成像去年環法那樣的集體摔車。
 
-
-
-
-[![]({{site.baseurl}}/assets/images/blog/img_4040.jpg)]({{site.baseurl}}/assets/images/blog/img_4040.jpg)
-
-
+![]({{site.baseurl}}/assets/images/blog/img_4040.jpg)
 
 
 說完了風景，說完了車，讓我來談談這次台灣之行印象最深的吧～沒錯，當然是**可愛的隊友們**。上面說到我是隊伍裡面年紀小的，我也是萬萬沒想到啊，整個隊伍有來自新加坡、馬來西亞、香港、泰國、美國的大哥大姐一共三十八位，比我小的目測只有一個成都美眉和一個台灣小鮮肉，團隊平均年齡目測50+……是的，你沒有看錯，雖然整體年齡偏大，可是相處下來哥哥姐姐們的活力和能量一點也不輸給年輕人，他們大多保持鍛煉，不經常騎車的也會時常參加登山、游泳、馬拉松等其他項目，基本的體力和身體運動機要比不平時不運動的年輕人還要好。9天900公里的路程對我們每個人都是挑戰，對那些平時不怎麼騎車的夥伴來說，有些路段真的十分艱苦，可是愛好運動向往戶外抱著同樣目標的一群人，還是靠自己的勇氣和毅力完成了所有的路程。從開始的陌生，經過途中的相互了解和鼓勵，抗過風頂過雨的考驗，使來自世界各地不同文化/信仰/背景的夥伴們凝聚在一起，共同完成了生命中一次美妙的探險。**團隊當中有三分之一是台灣的在地人，我們這些外鄉客，一路上都受到了台灣夥伴們最熱情的款待，騎行和休息的途中，台灣的大哥大姐們都會給我們介紹當地的歷史或風俗，而最精彩的是到了晚上，酒足飯飽之後，他們會帶著我們遊覽駐地附近的景點或夜市，照顧之周到可謂無微不至，作為一個第一次來台的大陸人，我真的有點受寵若驚的感覺，在這裡真的要對親切的台灣同胞們說一聲感謝！感謝！感謝！並不需要更多冠冕堂皇的客套，你們沒事到新加坡或者大陸東北來玩就好啦～～～**
 
-
-
-
 台灣人會說，愛台灣就要做三件事，**攀登玉山**（台灣第一高山海拔3952米），**橫渡日月潭**（3300米）和騎行還台，不少人都是為了有生之年達成這三個目標來參加的活動，電影【破風】裡面有一句台詞說，很多事情現在不做就再也不會做了，其實就像Nike/Adidas的廣告說的那樣：**“Now or Never” “All or Nothing”**，我們選擇用自己的方式來認識世界，用自己的汗水來丈量生命的廣度，收穫的是不僅僅是世界，更是更好的自己。相信每個騎行環過台灣的人都沒有理由不愛上這裡，有機會我也要把玉山和日月潭給拿下，當然還有自行車項目裡著名的[武陵登山挑戰賽](http://www.taiwankom.org/)（King of Mountain） ，小伙伴們約起來吧～～～
-
-
-
 
 先抒發到這裡好了，分割線之後就環島每天的點點和滴滴！
 
-
-
-
-<!-- more -->
-
-
 **Day1 台北新店-三峽-大溪-新竹 全程73KM 難度係數1**
 
-[![]({{site.baseurl}}/assets/images/blog/img_4043-708x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4043.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4043.jpg)
+
 早上在餐厅早餐就遇到了从美国来的一队人马，穿着骑行服吃早餐肯定是跟我一起环台没错了，数了一下有八人之多，几许寒暄吃完早餐去碧潭西岸停车场集合。集合的时候一边听领队讲解，一边领取头盔，水壶，和最重要的伙伴，Giant Propel Adv2，银色，车况6成新，找技师换上我自带的卡鞋脚踏，想把Gopro的车把固定架安装上去，却发现这台Propel的车把比我小兰的更加空气动力，扁薄的安装不上，还好我准备的充分，从行李中翻出Gopro胸带，第一天出发这么重要的时刻一定要录下来！
 
-[caption id="attachment_3074" align="aligncenter" width="670"]![]({{site.baseurl}}/assets/images/blog/img_3147-1024x768.jpg) 事後我才發現車座還是飛賊的～難怪屁屁不痛[/caption]
+![]({{site.baseurl}}/assets/images/blog/img_3147.jpg)
+事後我才發現車座還是飛賊的～難怪屁屁不痛
 
-[caption id="attachment_3077" align="aligncenter" width="670"][![]({{site.baseurl}}/assets/images/blog/img_3151-768x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_3151.jpg) 全副武裝鬥志昂揚！[/caption]
+![]({{site.baseurl}}/assets/images/blog/img_3151.jpg)
+全副武裝鬥志昂揚！
 
-[![]({{site.baseurl}}/assets/images/blog/img_3150-768x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_3150.jpg)[
-]({{site.baseurl}}/assets/images/blog/img_3157.jpg)[
-]({{site.baseurl}}/assets/images/blog/img_3281.jpg)
-领队Rui给我们介绍了此次环岛的领骑慎志先生，以及两名指挥交通的标兵和压队的一共四人骑行伙伴，领队开小白开路并负责沿途摄像，随队技师驾驶保障车大白压阵，也就是捷安特六个人为我们这支近四十人的团队来服务。每次出发前，慎志（Even）都会带领大家热身，第一次热身后，神清气爽斗志昂扬的我们就粗发啦！![]({{site.baseurl}}/assets/images/blog/img_3157-1024x768.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_3150.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_3157.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_3281.jpg)
+领队Rui给我们介绍了此次环岛的领骑慎志先生，以及两名指挥交通的标兵和压队的一共四人骑行伙伴，领队开小白开路并负责沿途摄像，随队技师驾驶保障车大白压阵，也就是捷安特六个人为我们这支近四十人的团队来服务。每次出发前，慎志（Even）都会带领大家热身，第一次热身后，神清气爽斗志昂扬的我们就粗发啦！
 
-[caption id="attachment_3073" align="aligncenter" width="670"]![]({{site.baseurl}}/assets/images/blog/img_3281-1024x678.jpg) 第一次拍大合照就沒搶到鏡頭也是沒sei了[/caption]
+![]({{site.baseurl}}/assets/images/blog/img_3281.jpg) 第一次拍大合照就沒搶到鏡頭也是沒sei了
 
-[![]({{site.baseurl}}/assets/images/blog/img_4065.jpg)]({{site.baseurl}}/assets/images/blog/img_4065.jpg)[![]({{site.baseurl}}/assets/images/blog/img_4066-342x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4066.jpg)[![]({{site.baseurl}}/assets/images/blog/img_4067-576x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4067.jpg)
-
-
-第一天视频
+![]({{site.baseurl}}/assets/images/blog/img_4065.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4065.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4066.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4067.jpg)

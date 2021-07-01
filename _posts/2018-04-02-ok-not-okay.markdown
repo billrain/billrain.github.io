@@ -7,7 +7,7 @@ post_image: /assets/images/blog/fitter.jpg
 title: OK [Not] Okay
 wordpress_id: 3556
 categories:
-- 帐如流水|COMMON
+- Life
 tags:
 - thinking
 ---

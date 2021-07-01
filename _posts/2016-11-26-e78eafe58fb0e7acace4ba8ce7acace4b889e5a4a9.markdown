@@ -2,13 +2,12 @@
 author: admin
 comments: true
 date: 2016-11-26 16:02:48+00:00
+post_image: /assets/images/blog/img_3239.png
 layout: post
-link: http://www.billrain.com/2016/11/%e7%8e%af%e5%8f%b0%e7%ac%ac%e4%ba%8c%e7%ac%ac%e4%b8%89%e5%a4%a9/
-slug: '%e7%8e%af%e5%8f%b0%e7%ac%ac%e4%ba%8c%e7%ac%ac%e4%b8%89%e5%a4%a9'
 title: 环台第二第三天
 wordpress_id: 3225
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - cycle
 - taiwan

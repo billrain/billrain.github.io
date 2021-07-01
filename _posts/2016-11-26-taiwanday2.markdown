@@ -119,14 +119,9 @@ tags:
 红豆 大红豆～
 
 ![]({{site.baseurl}}/assets/images/blog/img_3348.jpg)
-
 ![]({{site.baseurl}}/assets/images/blog/img_3350.jpg)
-
 ![]({{site.baseurl}}/assets/images/blog/img_3352.jpg)
 ![]({{site.baseurl}}/assets/images/blog/img_3353.jpg)
-![]({{site.baseurl}}/assets/images/blog/img_3346.jpg)
-![]({{site.baseurl}}/assets/images/blog/img_3353.jpg)
-![]({{site.baseurl}}/assets/images/blog/img_3348.jpg)
 ![]({{site.baseurl}}/assets/images/blog/img_3346.jpg)
 ![]({{site.baseurl}}/assets/images/blog/img_3345-1.jpg)
 ![]({{site.baseurl}}/assets/images/blog/img_3341-1.jpg)

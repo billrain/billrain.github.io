@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2013-11-02 16:45:06+00:00
 layout: post
-link: http://www.billrain.com/2013/11/how-far/
-slug: how-far
 title: How far
 wordpress_id: 2936
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---

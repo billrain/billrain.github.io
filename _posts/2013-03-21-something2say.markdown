@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2013-03-21 15:09:13+00:00
 layout: post
-link: http://www.billrain.com/2013/03/%e4%b8%80%e4%ba%9b%e6%83%b3%e8%af%b4%e7%9a%84%e5%92%8c%e8%af%a5%e8%af%b4%e7%9a%84/
-slug: '%e4%b8%80%e4%ba%9b%e6%83%b3%e8%af%b4%e7%9a%84%e5%92%8c%e8%af%a5%e8%af%b4%e7%9a%84'
 title: 一些想说的和该说的
 wordpress_id: 2873
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---
@@ -100,17 +98,3 @@ what can you see, how do you feel, and what do you do － that's how you can def
 三十而立 四十不惑
 
 换一下又有何不可？
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2013-09-25 15:52:05+00:00
 layout: post
-link: http://www.billrain.com/2013/09/%e4%b8%80%e7%94%9f%e4%b8%80%e4%b8%96/
-slug: '%e4%b8%80%e7%94%9f%e4%b8%80%e4%b8%96'
 title: 一生一世
 wordpress_id: 2908
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---
@@ -36,4 +34,4 @@ tags:
 离不开彼此的
 才是
 
-[![]({{site.baseurl}}/assets/images/blog/p1050250-1024x768.jpg)]({{site.baseurl}}/assets/images/blog/p1050250.jpg)
+![]({{site.baseurl}}/assets/images/blog/p1050250.jpg)

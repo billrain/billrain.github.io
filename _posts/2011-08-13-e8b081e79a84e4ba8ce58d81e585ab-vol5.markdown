@@ -3,8 +3,6 @@ author: admin
 comments: true
 date: 2011-08-13 05:52:49+00:00
 layout: post
-link: http://www.billrain.com/2011/08/%e8%b0%81%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ab-vol5/
-slug: '%e8%b0%81%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ab-vol5'
 title: 谁的二十八 VOL5
 wordpress_id: 2810
 categories:

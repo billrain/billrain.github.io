@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2011-12-18 14:34:29+00:00
 layout: post
-link: http://www.billrain.com/2011/12/2011%e5%b9%b4%e7%9a%84%e7%ac%ac%e4%b8%80%e7%af%87%e6%96%87%e7%ab%a0/
-slug: 2011%e5%b9%b4%e7%9a%84%e7%ac%ac%e4%b8%80%e7%af%87%e6%96%87%e7%ab%a0
 title: 2011年的第一篇文章
 wordpress_id: 2818
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - 生活
 ---
@@ -86,7 +84,3 @@ Ongoing is an attitude of life, cause life ain't a task you can complete.
 ===
 
 是的 打开WP就能写出东西来的感觉真好
-
-
-
-

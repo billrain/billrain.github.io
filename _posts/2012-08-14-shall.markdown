@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2012-08-14 15:54:45+00:00
+layout: post
+title: 都将
+wordpress_id: 2862
+categories:
+- Life
+---
+
+这一夜 我感谢日光
+明一早 我感谢星辰
+那不曾拥有的
+和已失去的
+都将随梦
+飘散
+
+![]({{site.baseurl}}/assets/images/blog/img_0866.jpg)

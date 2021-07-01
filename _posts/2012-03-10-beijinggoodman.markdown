@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2012-03-10 15:27:27+00:00
 layout: post
-link: http://www.billrain.com/2012/03/%e5%8c%97%e4%ba%ac%e5%a5%bd%e4%ba%ba/
-slug: '%e5%8c%97%e4%ba%ac%e5%a5%bd%e4%ba%ba'
 title: 北京好人
 wordpress_id: 2847
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - 人物
 ---
@@ -26,5 +24,3 @@ tags:
 宝路叔是一个简单的人，而一个好人，必须要简单；好人，是对一个人，最高的评价。
 
 其实，在心里我还是把他当作是东北人。
-
-

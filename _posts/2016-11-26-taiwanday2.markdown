@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-11-26 16:02:48+00:00
-post_image: /assets/images/blog/img_3239.png
+post_image: /assets/images/blog/img_3306.jpg
 layout: post
 title: 环台第二第三天
 wordpress_id: 3225

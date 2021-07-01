@@ -2,6 +2,7 @@
 author: admin
 comments: true
 date: 2016-11-16 14:41:53+00:00
+post_image: assets/images/blog-img-7.jpg
 layout: post
 title: 遇见
 wordpress_id: 3220

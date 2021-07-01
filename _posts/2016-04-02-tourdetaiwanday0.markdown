@@ -3,11 +3,11 @@ author: admin
 comments: true
 date: 2016-04-02 13:37:46+00:00
 layout: post
-post_image:
+post_image: /assets/images/blog/img_3123.jpg
 title: 台湾环岛Day0之准备&抵达
 wordpress_id: 3031
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - cycle
 - taiwan
@@ -24,10 +24,10 @@ tags:
 
 毕业三年后来到新加坡工作，重新捡起儿时的爱好，入手人生第一台公路车，同样经历人生最重大撞车事故，小白壮烈牺牲，却没有阻挡我继续骑行的信念，小兰接班一路陪伴至今，每年带着小兰环绕坡县若干次，虽然每次都能认识新伙伴，可是让我驻足的风景却已不再。<!-- more -->
 
-![]({{site.baseurl}}/assets/images/blog/IMG_1352-1024x768.jpg)
+![]({{site.baseurl}}/assets/images/blog/IMG_1352.jpg)
 撞断大梁的可怜的小白
 
-![]({{site.baseurl}}/assets/images/blog/IMG_1385-1024x768.jpg)
+![]({{site.baseurl}}/assets/images/blog/IMG_1385.jpg)
 小兰
 
 **言归正传**

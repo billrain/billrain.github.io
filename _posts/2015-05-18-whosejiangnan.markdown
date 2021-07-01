@@ -2,6 +2,7 @@
 author: billrain
 comments: true
 date: 2015-05-18 15:01:24+00:00
+post_image: /assets/images/blog/img_0068.jpg
 layout: post
 title: 谁的江南
 wordpress_id: 2977

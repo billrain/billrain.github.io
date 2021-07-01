@@ -2,6 +2,7 @@
 author: admin
 comments: true
 date: 2015-09-18 15:51:15+00:00
+post_image: /assets/images/blog/dji_0168.jpg
 layout: post
 title: 命运
 wordpress_id: 2993

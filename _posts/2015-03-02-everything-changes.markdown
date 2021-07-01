@@ -2,21 +2,18 @@
 author: admin
 comments: true
 date: 2015-03-02 14:08:29+00:00
+post_image: /assets/images/blog/img_4184.jpg
 layout: post
-link: http://www.billrain.com/2015/03/everything-changes/
-slug: everything-changes
 title: Everything changes
 wordpress_id: 2970
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---
 
-[audio:Here We Go Again.mp3]
-Everything is changing
 
-从前慢 是一个相对的话题<!-- more -->
+从前慢 是一个相对的话题
 下飞机之后 爹妈来机场接我 父亲开车带我回家
 可能是饿了的缘故 路上我不禁抱怨父亲开车开的慢
 在我印象中 小时候芭比开车是嗷嗷快 见缝就插见灯就闯的
@@ -41,4 +38,4 @@ Everything is changing
 我们通常称之为
 赢家
 
-[![]({{site.baseurl}}/assets/images/blog/img_4184.jpg)]({{site.baseurl}}/assets/images/blog/img_4184.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4184.jpg)

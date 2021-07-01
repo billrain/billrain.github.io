@@ -14,22 +14,22 @@ tags:
 ---
 
 [
-](http://www.billrain.com/billrain/wp-content/uploads/img_1904.png)
+]({{site.baseurl}}/assets/images/blog/img_1904.png)
 2016年的第一天傍晚出发 完成了首个新加坡单人环岛<!-- more -->
 
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_1904.png)
+![]({{site.baseurl}}/assets/images/blog/img_1904.png)
 
 
 
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_1903.png)](http://www.billrain.com/billrain/wp-content/uploads/img_1903.png)
+[![]({{site.baseurl}}/assets/images/blog/img_1903.png)]({{site.baseurl}}/assets/images/blog/img_1903.png)
 之前曾经组队带领小伙伴们环过很多次 每次的伙伴和路线都不尽相同 也各有乐趣 环着环着心里便会萌发出自己一个人环岛的想法
 
 
-![DCIM100GOPRO](http://www.billrain.com/billrain/wp-content/uploads/GOPR0576-1024x768.jpg)
+![DCIM100GOPRO]({{site.baseurl}}/assets/images/blog/GOPR0576-1024x768.jpg)
 
 
 本来是想31号晚上出发来个跨年 身不由己
@@ -68,7 +68,7 @@ tags:
 
 
 那是一种生命尽在掌握的快意
-![IMG_1838](http://www.billrain.com/billrain/wp-content/uploads/IMG_1838-1024x768.jpg)
+![IMG_1838]({{site.baseurl}}/assets/images/blog/IMG_1838-1024x768.jpg)
 
 
 
@@ -96,7 +96,7 @@ tags:
 现代人的精神和身体是不容易有这样的机会真正统一在一起的
 
 
-![IMG_1872](http://www.billrain.com/billrain/wp-content/uploads/IMG_1872-e1453044025109-768x1024.jpg)
+![IMG_1872]({{site.baseurl}}/assets/images/blog/IMG_1872-e1453044025109-768x1024.jpg)
 
 
 在凡人看来的孤独
@@ -137,13 +137,13 @@ tags:
 不需要向任何人解释的状态
 
 
-![DCIM100GOPRO](http://www.billrain.com/billrain/wp-content/uploads/GOPR0611-1024x768.jpg)
+![DCIM100GOPRO]({{site.baseurl}}/assets/images/blog/GOPR0611-1024x768.jpg)
 
 
 在生命的有常之中 你所能做到的 是一个闭环
 
 
-![IMG_1887](http://www.billrain.com/billrain/wp-content/uploads/IMG_1887-1024x768.jpg)
+![IMG_1887]({{site.baseurl}}/assets/images/blog/IMG_1887-1024x768.jpg)
 
 
 而生命的无常 可能是一个点 某一刻这个点来了 开始或者结束
@@ -151,4 +151,4 @@ tags:
 
 
 
-![IMG_1896](http://www.billrain.com/billrain/wp-content/uploads/IMG_1896-e1453044059944-768x1024.jpg)
+![IMG_1896]({{site.baseurl}}/assets/images/blog/IMG_1896-e1453044059944-768x1024.jpg)

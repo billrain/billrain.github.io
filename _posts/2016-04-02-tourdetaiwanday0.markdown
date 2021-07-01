@@ -25,9 +25,9 @@ tags:
 
 毕业三年后来到新加坡工作，重新捡起儿时的爱好，入手人生第一台公路车，同样经历人生最重大撞车事故，小白壮烈牺牲，却没有阻挡我继续骑行的信念，小兰接班一路陪伴至今，每年带着小兰环绕坡县若干次，虽然每次都能认识新伙伴，可是让我驻足的风景却已不再。<!-- more -->
 
-[caption id="attachment_3055" align="aligncenter" width="670"]![IMG_1352](http://www.billrain.com/billrain/wp-content/uploads/IMG_1352-1024x768.jpg) 撞断大梁的可怜的小白[/caption]
+[caption id="attachment_3055" align="aligncenter" width="670"]![IMG_1352]({{site.baseurl}}/assets/images/blog/IMG_1352-1024x768.jpg) 撞断大梁的可怜的小白[/caption]
 
-[caption id="attachment_3057" align="aligncenter" width="670"]![IMG_1385](http://www.billrain.com/billrain/wp-content/uploads/IMG_1385-1024x768.jpg) 小兰[/caption]
+[caption id="attachment_3057" align="aligncenter" width="670"]![IMG_1385]({{site.baseurl}}/assets/images/blog/IMG_1385-1024x768.jpg) 小兰[/caption]
 
 
 **言归正传**
@@ -59,7 +59,7 @@ tags:
 团费包含一辆平把的公路车 RAPID 2 ，如果想体验高级车型的话，可以加钱预定，每款型号只有一台，且尺寸固定，虽然TCR PRO1的性价比高，但是没有小码，只好上了台Propel Adv 2
 
 
-![下载](http://www.billrain.com/billrain/wp-content/uploads/下载.png)
+![下载]({{site.baseurl}}/assets/images/blog/下载.png)
 
 补完——統計一下全部的費用（單位新幣）：
 
@@ -83,12 +83,12 @@ tags:
 
 
 
-出发前一天的下午在捷安特店里有一堂说明会，因为是下午的飞机就赶不上了，9天的行程如下 [慢走骑行台湾](http://www.billrain.com/billrain/wp-content/uploads/台湾.pdf)
+出发前一天的下午在捷安特店里有一堂说明会，因为是下午的飞机就赶不上了，9天的行程如下 [慢走骑行台湾]({{site.baseurl}}/assets/images/blog/台湾.pdf)
 
 
 
 
-![下载 (1)](http://www.billrain.com/billrain/wp-content/uploads/下载-1.png)
+![下载 (1)]({{site.baseurl}}/assets/images/blog/下载-1.png)
 
 
 
@@ -104,7 +104,7 @@ tags:
 
 
 
-![下载 (2)](http://www.billrain.com/billrain/wp-content/uploads/下载-2.png)
+![下载 (2)]({{site.baseurl}}/assets/images/blog/下载-2.png)
 
 
 
@@ -153,7 +153,7 @@ tags:
 
 
 
-![IMG_2911](http://www.billrain.com/billrain/wp-content/uploads/IMG_2911-1024x1024.jpg)
+![IMG_2911]({{site.baseurl}}/assets/images/blog/IMG_2911-1024x1024.jpg)
 
 
 
@@ -188,8 +188,8 @@ App支持：
 
 
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_3113-1024x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_3113.jpg)[
-](http://www.billrain.com/billrain/wp-content/uploads/img_3117.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_3113-1024x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_3113.jpg)[
+]({{site.baseurl}}/assets/images/blog/img_3117.jpg)
 
 
 
@@ -199,7 +199,7 @@ App支持：
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_3117-1024x1024.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_3117-1024x1024.jpg)
 
 
 
@@ -214,14 +214,14 @@ App支持：
 
 
 
-![](http://www.billrain.com/billrain/wp-content/uploads/img_3123-768x1024.jpg)![](http://www.billrain.com/billrain/wp-content/uploads/img_3124-1024x768.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_3123-768x1024.jpg)![]({{site.baseurl}}/assets/images/blog/img_3124-1024x768.jpg)
 
 
 
 
-放好行李，出来觅食，711买张悠游卡，方便今后出行，从酒店前台得知最近的夜市在景美，便一路溜达了过去，路上饥饿难当，看到臭豆腐就赶紧来了一碗，还是臭豆腐+大肠+粉丝的组合，赞啊～![](http://www.billrain.com/billrain/wp-content/uploads/img_3128-1024x768.jpg)![](http://www.billrain.com/billrain/wp-content/uploads/img_3127-1024x1024.jpg)
+放好行李，出来觅食，711买张悠游卡，方便今后出行，从酒店前台得知最近的夜市在景美，便一路溜达了过去，路上饥饿难当，看到臭豆腐就赶紧来了一碗，还是臭豆腐+大肠+粉丝的组合，赞啊～![]({{site.baseurl}}/assets/images/blog/img_3128-1024x768.jpg)![]({{site.baseurl}}/assets/images/blog/img_3127-1024x1024.jpg)
 
 
 
 
-景美的夜市倒没什么好逛，搭捷运回来，横渡碧潭吊桥，一眼向碧潭望去，竟然有些阴森，最后一天得知这里竟是观赏萤火虫的妙处，此乃后话。回到酒店，歇息一晚，满心期待明天开始的环台之旅！![](http://www.billrain.com/billrain/wp-content/uploads/img_3140-1024x768.jpg)![](http://www.billrain.com/billrain/wp-content/uploads/img_3139-768x1024.jpg)
+景美的夜市倒没什么好逛，搭捷运回来，横渡碧潭吊桥，一眼向碧潭望去，竟然有些阴森，最后一天得知这里竟是观赏萤火虫的妙处，此乃后话。回到酒店，歇息一晚，满心期待明天开始的环台之旅！![]({{site.baseurl}}/assets/images/blog/img_3140-1024x768.jpg)![]({{site.baseurl}}/assets/images/blog/img_3139-768x1024.jpg)

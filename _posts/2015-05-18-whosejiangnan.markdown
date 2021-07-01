@@ -3,17 +3,14 @@ author: billrain
 comments: true
 date: 2015-05-18 15:01:24+00:00
 layout: post
-link: http://www.billrain.com/2015/05/%e8%b0%81%e7%9a%84%e6%b1%9f%e5%8d%97/
-slug: '%e8%b0%81%e7%9a%84%e6%b1%9f%e5%8d%97'
 title: 谁的江南
 wordpress_id: 2977
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - travel
 ---
 
-[audio:Believe.mp3]
 杭州植物园内与老同学小聚
 他说杭州虽是旅游城市 到访过的同学却并没有很多
 我想一是因为祖国太大 二是小伙伴们又普遍偏宅
@@ -48,5 +45,4 @@ tags:
 
 可能性才是真谛
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_0068.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_0068.jpg)
-
+![]({{site.baseurl}}/assets/images/blog/img_0068.jpg)

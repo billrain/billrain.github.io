@@ -2,13 +2,12 @@
 author: admin
 comments: true
 date: 2016-04-26 07:16:24+00:00
+post_image: /assets/images/blog/img_4032.png
 layout: post
-link: http://www.billrain.com/2016/04/%e6%8d%b7%e5%ae%89%e7%89%b99%e5%a4%a9%e7%8e%af%e5%8f%b0%e9%aa%91%e8%a1%8c-%e5%9b%be%e6%96%87%e7%b2%be%e5%8d%8e%e7%89%88/
-slug: '%e6%8d%b7%e5%ae%89%e7%89%b99%e5%a4%a9%e7%8e%af%e5%8f%b0%e9%aa%91%e8%a1%8c-%e5%9b%be%e6%96%87%e7%b2%be%e5%8d%8e%e7%89%88'
 title: 慢走骑遇记之2016捷安特环台
 wordpress_id: 3047
 categories:
-- 动如脱兔|ACTIVITY
+- ACTIVITY
 tags:
 - cycle
 - taiwan
@@ -17,17 +16,15 @@ tags:
 
 台灣十一天，每天都睡在不同的天花板下，回到新加坡熟悉的床上，閉上眼睛腦海中浮現的卻還是這一路騎行的畫面。一周之內，生活再次恢復到正常狀態，上班、夜騎、打球，身體和心情也隨之平靜下來，心想還是把總結放在這篇遊記的最前面好了，畢竟九天的路程讓大家一口氣看下來太有難度，有興致的朋友可以找時間慢慢往下看。
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4032-576x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4032.jpg)
-
-[audio:Stardust.mp3]
+![]({{site.baseurl}}/assets/images/blog/img_4032.jpg)
 
 台灣的風景去過的朋友都自有體會，其實無論你選擇哪一種出行方式，都難免因為趕時間而錯過一些風景，在都市生活工作的人們，總是把時間和效率掛在嘴邊，而真正懂得利用時間珍惜時間欣賞時間帶給我們的美景的人卻少之又少，15-30公里的速度，台灣稱之為“慢生活”，而這一次騎行環台就是驗證【騎行是欣賞風景的最佳速度】的一次完美實踐。
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4038-1-576x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4038-1.jpg)
+![]({{site.baseurl}}/assets/images/blog/img_4038-1.jpg)
 一路經過的城市、鄉村、山谷、海岸，對我都是陌生的，從踏上腳踏車駛出第一個路口開始，幕幕不同的畫面就在接連不斷地衝擊我的感官系統，大腦既要馬不停蹄地處理這些信息，還要保持身體和座駕的平衡，可以說這一路上我是完全把自己【置身事外】於以往的一起經驗習慣之外，工作或平常生活中的任何瑣事都沒有機會來煩到我，不得不說，這是對大腦很好的放鬆和休息。 靚麗的風景帶來的視覺上的衝擊，和你吸進的涼爽的自然的空氣，很大程度上緩解了踩踏運動產生的勞累，白天騎行的過程中，時刻處於緊張興奮的狀態，當渾身肌肉適應了機械運動強度，巡航就像步行一樣並不會使我們感到疲勞，真正疲勞的時候是騎了一天車回到酒店淋浴洗衣之後，趟到床上和每天早上起床的時候（爬山另算）。
 
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4039-576x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4039.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_4039-576x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4039.jpg)
 
 
 
@@ -37,7 +34,7 @@ tags:
 
 
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4040.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4040.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_4040.jpg)]({{site.baseurl}}/assets/images/blog/img_4040.jpg)
 
 
 
@@ -62,27 +59,21 @@ tags:
 
 **Day1 台北新店-三峽-大溪-新竹 全程73KM 難度係數1**
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4043-708x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4043.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_4043-708x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4043.jpg)
 早上在餐厅早餐就遇到了从美国来的一队人马，穿着骑行服吃早餐肯定是跟我一起环台没错了，数了一下有八人之多，几许寒暄吃完早餐去碧潭西岸停车场集合。集合的时候一边听领队讲解，一边领取头盔，水壶，和最重要的伙伴，Giant Propel Adv2，银色，车况6成新，找技师换上我自带的卡鞋脚踏，想把Gopro的车把固定架安装上去，却发现这台Propel的车把比我小兰的更加空气动力，扁薄的安装不上，还好我准备的充分，从行李中翻出Gopro胸带，第一天出发这么重要的时刻一定要录下来！
 
-[caption id="attachment_3074" align="aligncenter" width="670"]![](http://www.billrain.com/billrain/wp-content/uploads/img_3147-1024x768.jpg) 事後我才發現車座還是飛賊的～難怪屁屁不痛[/caption]
+[caption id="attachment_3074" align="aligncenter" width="670"]![]({{site.baseurl}}/assets/images/blog/img_3147-1024x768.jpg) 事後我才發現車座還是飛賊的～難怪屁屁不痛[/caption]
 
-[caption id="attachment_3077" align="aligncenter" width="670"][![](http://www.billrain.com/billrain/wp-content/uploads/img_3151-768x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_3151.jpg) 全副武裝鬥志昂揚！[/caption]
+[caption id="attachment_3077" align="aligncenter" width="670"][![]({{site.baseurl}}/assets/images/blog/img_3151-768x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_3151.jpg) 全副武裝鬥志昂揚！[/caption]
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_3150-768x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_3150.jpg)[
-](http://www.billrain.com/billrain/wp-content/uploads/img_3157.jpg)[
-](http://www.billrain.com/billrain/wp-content/uploads/img_3281.jpg)
-领队Rui给我们介绍了此次环岛的领骑慎志先生，以及两名指挥交通的标兵和压队的一共四人骑行伙伴，领队开小白开路并负责沿途摄像，随队技师驾驶保障车大白压阵，也就是捷安特六个人为我们这支近四十人的团队来服务。每次出发前，慎志（Even）都会带领大家热身，第一次热身后，神清气爽斗志昂扬的我们就粗发啦！![](http://www.billrain.com/billrain/wp-content/uploads/img_3157-1024x768.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_3150-768x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_3150.jpg)[
+]({{site.baseurl}}/assets/images/blog/img_3157.jpg)[
+]({{site.baseurl}}/assets/images/blog/img_3281.jpg)
+领队Rui给我们介绍了此次环岛的领骑慎志先生，以及两名指挥交通的标兵和压队的一共四人骑行伙伴，领队开小白开路并负责沿途摄像，随队技师驾驶保障车大白压阵，也就是捷安特六个人为我们这支近四十人的团队来服务。每次出发前，慎志（Even）都会带领大家热身，第一次热身后，神清气爽斗志昂扬的我们就粗发啦！![]({{site.baseurl}}/assets/images/blog/img_3157-1024x768.jpg)
 
-[caption id="attachment_3073" align="aligncenter" width="670"]![](http://www.billrain.com/billrain/wp-content/uploads/img_3281-1024x678.jpg) 第一次拍大合照就沒搶到鏡頭也是沒sei了[/caption]
+[caption id="attachment_3073" align="aligncenter" width="670"]![]({{site.baseurl}}/assets/images/blog/img_3281-1024x678.jpg) 第一次拍大合照就沒搶到鏡頭也是沒sei了[/caption]
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4065.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4065.jpg)[![](http://www.billrain.com/billrain/wp-content/uploads/img_4066-342x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4066.jpg)[![](http://www.billrain.com/billrain/wp-content/uploads/img_4067-576x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4067.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_4065.jpg)]({{site.baseurl}}/assets/images/blog/img_4065.jpg)[![]({{site.baseurl}}/assets/images/blog/img_4066-342x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4066.jpg)[![]({{site.baseurl}}/assets/images/blog/img_4067-576x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_4067.jpg)
 
 
 第一天视频
-
-
-
-
-
-

@@ -36,4 +36,4 @@ tags:
 离不开彼此的
 才是
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/p1050250-1024x768.jpg)](http://www.billrain.com/billrain/wp-content/uploads/p1050250.jpg)
+[![]({{site.baseurl}}/assets/images/blog/p1050250-1024x768.jpg)]({{site.baseurl}}/assets/images/blog/p1050250.jpg)

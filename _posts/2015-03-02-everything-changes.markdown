@@ -41,4 +41,4 @@ Everything is changing
 我们通常称之为
 赢家
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_4184.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_4184.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_4184.jpg)]({{site.baseurl}}/assets/images/blog/img_4184.jpg)

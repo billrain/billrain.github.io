@@ -61,4 +61,4 @@ How far is far,
 
 we all know.
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/p1030848.jpg)](http://www.billrain.com/billrain/wp-content/uploads/p1030848.jpg)
+[![]({{site.baseurl}}/assets/images/blog/p1030848.jpg)]({{site.baseurl}}/assets/images/blog/p1030848.jpg)

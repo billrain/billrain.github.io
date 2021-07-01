@@ -22,4 +22,4 @@ Gratitude to the world.
 <!-- more -->
 
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/img_0666-765x1024.jpg)](http://www.billrain.com/billrain/wp-content/uploads/img_0666.jpg)
+[![]({{site.baseurl}}/assets/images/blog/img_0666-765x1024.jpg)]({{site.baseurl}}/assets/images/blog/img_0666.jpg)

@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2016-11-16 14:41:53+00:00
 layout: post
-link: http://www.billrain.com/2016/11/%e9%81%87%e8%a7%81/
-slug: '%e9%81%87%e8%a7%81'
 title: 遇见
 wordpress_id: 3220
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - think
 ---

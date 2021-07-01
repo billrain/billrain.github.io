@@ -3,12 +3,10 @@ author: admin
 comments: true
 date: 2015-09-18 15:51:15+00:00
 layout: post
-link: http://www.billrain.com/2015/09/%e5%91%bd%e8%bf%90/
-slug: '%e5%91%bd%e8%bf%90'
 title: 命运
 wordpress_id: 2993
 categories:
-- 帐如流水|COMMON
+- Life
 tags:
 - thinking
 ---
@@ -55,4 +53,4 @@ tags:
 
 连一片小湖也会每天受潮汐涨落 引力是可以挣脱的嘛
 
-[![](http://www.billrain.com/billrain/wp-content/uploads/dji_0168.jpg)](http://www.billrain.com/billrain/wp-content/uploads/dji_0168.jpg)
+![]({{site.baseurl}}/assets/images/blog/dji_0168.jpg)

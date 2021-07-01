@@ -3,8 +3,7 @@ author: admin
 comments: true
 date: 2010-12-04 16:02:33+00:00
 layout: post
-link: http://www.billrain.com/2010/12/happy-birthday/
-slug: happy-birthday
+published: false
 title: Happy birthday
 wordpress_id: 2585
 categories:

@@ -3,8 +3,7 @@ author: admin
 comments: true
 date: 2010-07-12 14:15:58+00:00
 layout: post
-link: http://www.billrain.com/2010/07/to-my-dearest/
-slug: to-my-dearest
+published: false
 title: To my dearest
 wordpress_id: 2439
 categories:

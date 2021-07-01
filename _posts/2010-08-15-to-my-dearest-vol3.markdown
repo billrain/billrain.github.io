@@ -3,8 +3,7 @@ author: admin
 comments: true
 date: 2010-08-15 07:36:58+00:00
 layout: post
-link: http://www.billrain.com/2010/08/to-my-dearest-vol3/
-slug: to-my-dearest-vol3
+published: false
 title: To my dearest vol3
 wordpress_id: 2546
 categories:

@@ -3,8 +3,7 @@ author: admin
 comments: true
 date: 2010-07-13 16:47:27+00:00
 layout: post
-link: http://www.billrain.com/2010/07/to-my-dearest-vol-2/
-slug: to-my-dearest-vol-2
+published: false
 title: To my dearest vol 2
 wordpress_id: 2455
 categories:
@@ -14,8 +13,8 @@ tags:
 ---
 
 <blockquote>[![u1452482-1](http://www.billrain.com/wp-content/uploads/2010/07/u14524821_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2010/07/u14524821.jpg)id: billrain 2007-03-06加入
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -42,8 +41,8 @@ babe应该刚开学，如果我没算错的话，刚刚是大二下学期是么�
 
 
 <blockquote>[![u2464781-3](http://www.billrain.com/wp-content/uploads/2010/07/u24647813_thumb.jpg)](http://www.billrain.com/wp-content/uploads/2010/07/u24647813.jpg)id: cat10 2008-05-09加入
-> 
-> 
+>
+>
 </blockquote>
 
 

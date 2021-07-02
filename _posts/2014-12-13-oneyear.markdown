@@ -6,7 +6,7 @@ layout: post
 title: 一年
 wordpress_id: 2955
 categories:
-- 静如处子|OBSERVE
+- OBSERVE
 tags:
 - thinking
 ---

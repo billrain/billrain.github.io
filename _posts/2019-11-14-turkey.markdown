@@ -7,7 +7,7 @@ layout: post
 title: 慢走土耳其之总览
 wordpress_id: 3651
 categories:
-- ACTIVITY
+- activity
 tags:
 - travel
 ---

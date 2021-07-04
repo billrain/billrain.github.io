@@ -6,8 +6,7 @@ post_image: /assets/images/blog/img_8226.jpg
 layout: post
 title: 新加坡传染病中心隔离记
 wordpress_id: 3726
-categories:
-- Life
+categories: [life]
 ---
 
 
